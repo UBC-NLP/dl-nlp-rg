@@ -1,5 +1,4 @@
-# dl-nlp-rg
-Deep Learning for Natural Language Processing Reading Group | University of British Columbia (UBC)
+# Deep Learning for Natural Language Processing Reading Group (DL-NLP) | University of British Columbia (UBC)
 
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
