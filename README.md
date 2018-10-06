@@ -5,7 +5,7 @@
 
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
-| Oct. 3 | [[A large annotated corpus for learning natural language inference](https://nlp.stanford.edu/pubs/snli_paper.pdf)] | Mohamed Elaraby | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/edit/master/slides/bowman2015large_slides.pdf)] |
+| Oct. 3 | [[A large annotated corpus for learning natural language inference](https://nlp.stanford.edu/pubs/snli_paper.pdf)] | Mohamed Elaraby | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/edit/master/slides/1003_A large annotated corpus.pdf)] |
 | xx | yy | zz | ss |
 | xx | yy | zz | ss |
 | xx | yy | zz | ss |
