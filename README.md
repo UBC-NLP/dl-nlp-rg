@@ -1,7 +1,7 @@
 # Deep Learning for Natural Language Processing Reading Group (DL-NLP) | University of British Columbia (UBC)
 
 ## Time: Wednesdays 5:00pm - 6:00pm
-## Place: School of information (iSchool)
+## Place: Greg Lab (IKB 462), School of information (iSchool)
 
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
