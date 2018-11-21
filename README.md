@@ -14,5 +14,5 @@
 | Nov. 14 | [[PartI: Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/pdf/1804.07755.pdf)] | Michael Przystupa | [[slides]()] |
 | Nov. 21 | [[Part II: Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/pdf/1804.07755.pdf)] | Michael Przystupa | [[slides]()] |
 | Nov. 28 | [[XNLI: Evaluating Cross-lingual Sentence Representations](http://aclweb.org/anthology/D18-1269)] | Ife Adebara | [[slides]()]|
-| Dec. 5 | [[Conneau_et_al2018](xxx)] | Rudra | [[slides]()]|
+| Dec. 5 | [[Word Translation Without Parallel Data](https://arxiv.org/pdf/1710.04087.pdf)] | Rudra Saha | [[slides]()]|
 
