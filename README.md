@@ -11,8 +11,8 @@
 | Oct. 24 | [[Evaluating Content Selection in Summarization: The Pyramid Method](http://www.cs.columbia.edu/~ani/papers/pyramid.pdf)] | Arthur Marques | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20181024_Pyramid_Method.pdf)] |
 | Oct. 31 | [[A Stylometric Inquiry into Hyperpartisan and Fake News](http://aclweb.org/anthology/P18-1022)] | Chiyu Zhang | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20181031_stylometric_hyperpartisan.pdf)] |
 | Nov. 7 | [[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20181107_attention.pdf)] |
-| Nov. 14 | [[PartI: Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/pdf/1804.07755.pdf)] | Michael Przystupa | [[slides]()] |
-| Nov. 21 | [[Part II: Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/pdf/1804.07755.pdf)] | Michael Przystupa | [[slides]()] |
+| Nov. 14 | [[PartI: Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/pdf/1804.07755.pdf)] | Michael Przystupa | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20181114_Phrase_MachineTranslation.pdf)] |
+| Nov. 21 | [[Part II: Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/pdf/1804.07755.pdf)] | Michael Przystupa | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20181114_Phrase_MachineTranslation.pdf)] |
 | Nov. 28 | [[XNLI: Evaluating Cross-lingual Sentence Representations](http://aclweb.org/anthology/D18-1269)] | Ife Adebara | [[slides]()]|
 | Dec. 12 | [[Word Translation Without Parallel Data](https://arxiv.org/pdf/1710.04087.pdf)] | Rudra Saha | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20181212_Word%20Translation%20Without%20Parallel%20Data.pdf)]|
 
