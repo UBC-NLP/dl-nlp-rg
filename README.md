@@ -3,6 +3,25 @@
 ## Time: Wednesdays 5:00pm - 6:00pm
 ## Place: Greg Lab (IKB 462), School of information (iSchool)
 
+### Spring / Winter II, 2019
+
+| Time | Topic/Paper | Presenter | Slides |
+| ----  | ------ | ------- | ------ |
+| Jan. 9 | [[Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)] | Pramit Saha | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190109_GAN.pdf)] |
+| Jan. 16 | [[Recipe1M: A Dataset for Learning Cross-Modal Embeddings for Cooking Recipes and Food Images](https://arxiv.org/pdf/1810.06553.pdf)] | Borna Ghotbi | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190117_recipe1m.pdf)] |
+| Jan. 18 | [[Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/pdf/1810.04805.pdf)] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190118_BERT.pdf)] |
+| Jan. 23 | [[Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/pdf/1810.04805.pdf)] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190118_BERT.pdf)] |
+| Jan. 25 | [[Multiple-Attribute Text Style Transfer](https://arxiv.org/pdf/1811.00552.pdf)] | Ife Adebara | [[slides]()] |
+| Feb. 6 | [[Unsupervised Machine Translation Using Monolingual Corpora Only](https://research.fb.com/wp-content/uploads/2018/03/unsupervised-machine-translation-using-monolingual-corpora-only.pdf)] | Michael Przystupa | [[slides]()] |
+| Feb. 8 | [[OpenMT Code Tutorial](http://opennmt.net)] | Michael Przystupa| [[slides]()] |
+| Feb. 13 | [[Graph-Attention Networks](https://mila.quebec/wp-content/uploads/2018/07/d1ac95b60310f43bb5a0b8024522fbe08fb2a482.pdf)] | Rudra Saha | [[slides]()] |
+| Feb. 15 | [Variational Auto-Encoders] | Mohit Bajaj | [[slides]()] |
+| Feb. 27 | [[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)] | Borna Ghotbi | [[slides]()] |
+| March 6 | [[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)] | Chiyu Zhang | [[slides]()] |
+---
+
+### Fall / Winter I, 2018
+
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 | Oct. 3 | [[A large annotated corpus for learning natural language inference](https://nlp.stanford.edu/pubs/snli_paper.pdf)] | Mohamed Elaraby | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20181003_A_large_annotated%20corpu.pdf)] |
