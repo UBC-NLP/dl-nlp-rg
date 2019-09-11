@@ -30,7 +30,19 @@
 | Feb. 13 | [[Graph-Attention Networks](https://mila.quebec/wp-content/uploads/2018/07/d1ac95b60310f43bb5a0b8024522fbe08fb2a482.pdf)] | Rudra Saha | [[slides]()] |
 | Feb. 15 | [Variational Auto-Encoders] | Mohit Bajaj | [[slides]()] |
 | Feb. 27 | [[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)] | Borna Ghotbi | [[slides]()] |
-| March 6 | [[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)] | Chiyu Zhang | [[slides]()] |
+| March 8 | [[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)] | Chiyu Zhang  | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190308_transformer-XL.pdf)] |
+| March 13 | [[Variational Neural Machine Translation](https://arxiv.org/pdf/1605.07869.pdf)] | Michael Przystupa | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190313_Variational%20Neural%20Machine%20Translation.pdf)] |
+| March 15 | [[Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf?fbclid=IwAR0f3k6MLQWt2xhoLGKndwsf53bIuO3F9JiHSAFncNpLYlr-StvWahrMwQM)] | Arun Rajendran | [[slides]()] |
+| March 20 | [[Video and Language](https://www.cs.ubc.ca/event/2019/03/video-and-language-prof-jiebo-luo-university-rochester-0)] | Jiebo Luo (University of Rochester) | [[2:00PM - 3:30PM; ICCS146](https://www.cs.ubc.ca/event/2019/03/video-and-language-prof-jiebo-luo-university-rochester-0)] |
+| March 22 | [[Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)] | Rudra Saha | [[slides]()] |
+| April 14 | [[Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644.pdf)] | Mohit Bajaj | [[slides]()] |
+| June 26 | [[Normalizing Flows](https://blog.evjang.com/2018/01/nf1.html)] | Michael Przystupa | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190626_Normalizing_Flows_tutorial.pdf)] |
+| July 4 | [[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190704_xlnet.pdf)] |
+| July 11 | [[Linguistic Variation]()] | Ife Adebara | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190419_language.pdf)] |
+| July 25 | [[Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings](https://arxiv.org/pdf/1904.01596.pdf)] | Peter Sullivan | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190725Analyzing_Polarization.pdf)] |
+| August 1 | [[Analysis and detection of information types of open source software issue discussions](https://arxiv.org/pdf/1902.07093.pdf)] | Arthur Marques  | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190801Analysis_and_detection_software_issue.pdf)] |
+| August 8 | [[PyTorch Seq2Seq](https://github.com/bentrevett/pytorch-seq2seq)] | Rudra Saha | [[slides](https://github.com/bentrevett/pytorch-seq2seq)] |
+
 ---
 
 ### Fall / Winter I, 2018
