@@ -6,10 +6,10 @@
 ### Place: ICICS X530 (X-Wing)
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
-| Sept. 12 | [[Defending Against Neural Fake News](https://arxiv.org/abs/1905.12616)] |
-| Sept. 19 | |
-| Sept. 26 | |
-| Oct. 3 | |
+| Sept. 12 | [[Defending Against Neural Fake News](https://arxiv.org/abs/1905.12616)] | Ganesh Jawahar | |
+| Sept. 19 | | | |
+| Sept. 26 | | | |
+| Oct. 3 | | | |
 
 ---
 ## Spring / Winter II, 2018
