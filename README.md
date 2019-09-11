@@ -1,7 +1,9 @@
 # Deep Learning & Natural Language Processing Reading Group (DL-NLP) | University of British Columbia (UBC)
 
-## Time: Thursdays 5:00pm - 6:30pm 
-## Place: ICICS X530 (X-Wing)
+## Fall / Winter I, 2019
+
+### Time: Thursdays 5:00pm - 6:30pm 
+### Place: ICICS X530 (X-Wing)
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 | Sept. 12 | [[Defending Against Neural Fake News](https://arxiv.org/abs/1905.12616)] |
@@ -10,10 +12,11 @@
 | Oct. 3 | |
 
 ---
-## Time: Wednesdays 5:00pm - 6:00pm
-## Place: Greg Lab (IKB 462), School of information (iSchool)
+## Spring / Winter II, 2018
 
-### Spring / Winter II, 2019
+### Time: Wednesdays 5:00pm - 6:00pm
+### Place: Greg Lab (IKB 462), School of information (iSchool)
+
 
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
