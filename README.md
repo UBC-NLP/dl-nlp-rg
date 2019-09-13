@@ -1,9 +1,22 @@
-# Deep Learning for Natural Language Processing Reading Group (DL-NLP) | University of British Columbia (UBC)
+# Deep Learning & Natural Language Processing Reading Group (DL-NLP) | University of British Columbia (UBC)
 
-## Time: Wednesdays 5:00pm - 6:00pm
-## Place: Greg Lab (IKB 462), School of information (iSchool)
+## Fall / Winter I, 2019
 
-### Spring / Winter II, 2019
+### Time: Thursdays 5:00pm - 6:30pm 
+### Place: ICICS X530 (X-Wing)
+| Time | Topic/Paper | Presenter | Slides |
+| ----  | ------ | ------- | ------ |
+| Sept. 12 | [[Defending Against Neural Fake News](https://arxiv.org/abs/1905.12616)] | Ganesh Jawahar | |
+| Sept. 19 | | | |
+| Sept. 26 | | | |
+| Oct. 3 | | | |
+
+---
+## Spring / Winter II, 2018
+
+### Time: Wednesdays 5:00pm - 6:00pm
+### Place: Greg Lab (IKB 462), School of information (iSchool)
+
 
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
@@ -11,13 +24,27 @@
 | Jan. 16 | [[Recipe1M: A Dataset for Learning Cross-Modal Embeddings for Cooking Recipes and Food Images](https://arxiv.org/pdf/1810.06553.pdf)] | Borna Ghotbi | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190117_recipe1m.pdf)] |
 | Jan. 18 | [[Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/pdf/1810.04805.pdf)] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190118_BERT.pdf)] |
 | Jan. 23 | [[Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/pdf/1810.04805.pdf)] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190118_BERT.pdf)] |
-| Jan. 25 | [[Multiple-Attribute Text Style Transfer](https://arxiv.org/pdf/1811.00552.pdf)] | Ife Adebara | [[slides]()] |
-| Feb. 6 | [[Unsupervised Machine Translation Using Monolingual Corpora Only](https://research.fb.com/wp-content/uploads/2018/03/unsupervised-machine-translation-using-monolingual-corpora-only.pdf)] | Michael Przystupa | [[slides]()] |
-| Feb. 8 | [[OpenMT Code Tutorial](http://opennmt.net)] | Michael Przystupa| [[slides]()] |
-| Feb. 13 | [[Graph-Attention Networks](https://mila.quebec/wp-content/uploads/2018/07/d1ac95b60310f43bb5a0b8024522fbe08fb2a482.pdf)] | Rudra Saha | [[slides]()] |
-| Feb. 15 | [Variational Auto-Encoders] | Mohit Bajaj | [[slides]()] |
-| Feb. 27 | [[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)] | Borna Ghotbi | [[slides]()] |
-| March 6 | [[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)] | Chiyu Zhang | [[slides]()] |
+| Jan. 25 | [[Multiple-Attribute Text Style Transfer](https://arxiv.org/pdf/1811.00552.pdf)] | Ife Adebara | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190125_style_transfer.pdf)] |
+| Feb. 6 | [[Unsupervised Machine Translation Using Monolingual Corpora Only](https://research.fb.com/wp-content/uploads/2018/03/unsupervised-machine-translation-using-monolingual-corpora-only.pdf)] | Michael Przystupa | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190206_Unsuperved_Machine_Translation.pdf)] |
+| Feb. 8 | [[OpenMT Code Tutorial](http://opennmt.net)] | Michael Przystupa| [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190208_OpenNMT.pdf)] |
+| Feb. 13 | [[Graph Convolutional Networks for Text Classification](https://arxiv.org/pdf/1809.05679.pdf)] | Rudra Saha | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190213_Graph%20Convolutional%20Networks%20for%20Text%20Classification.pdf)] |
+| Feb. 15 | [[Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)] | Mohit Bajaj | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190215_variartional.pdf)] |
+| Feb. 27 | [[Unsupervised Image Captioning](https://arxiv.org/pdf/1811.10787.pdf)] | Borna Ghotbi | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190227_Unsupervised%20Image%20Captioning%20.pdf)] |
+| March 5 | [[When Convolutions Meet Reality -- Structured Neural Networks in Vision and Graphics](https://www.cs.ubc.ca/event/2019/03/when-convolutions-meet-reality-structured-neural-networks-vision-and-graphics-andreas-)] | Andreas Lehrmann (Facebook AI Research) | [[3:00PM - 4:00PM; X836](https://www.cs.ubc.ca/event/2019/03/when-convolutions-meet-reality-structured-neural-networks-vision-and-graphics-andreas-)] |
+| March 7 | [[Artificial Intelligence: From Analog to Digital and Back](https://caida.ubc.ca/event/artificial-intelligence-analog-digital-and-back-george-dyson)] | George Dyson | [[3:30PM – 4:30PM; Forest Sciences Centre, Room 1221- 2424 Main Mall, Zone 4](https://caida.ubc.ca/event/artificial-intelligence-analog-digital-and-back-george-dyson)] |
+| March 8 | [[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/pdf/1901.02860.pdf)] | Chiyu Zhang  | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190308_transformer-XL.pdf)] |
+| March 13 | [[Variational Neural Machine Translation](https://arxiv.org/pdf/1605.07869.pdf)] | Michael Przystupa | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190313_Variational%20Neural%20Machine%20Translation.pdf)] |
+| March 15 | [[Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf?fbclid=IwAR0f3k6MLQWt2xhoLGKndwsf53bIuO3F9JiHSAFncNpLYlr-StvWahrMwQM)] | Arun Rajendran | [[slides]()] |
+| March 20 | [[Video and Language](https://www.cs.ubc.ca/event/2019/03/video-and-language-prof-jiebo-luo-university-rochester-0)] | Jiebo Luo (University of Rochester) | [[2:00PM - 3:30PM; ICCS146](https://www.cs.ubc.ca/event/2019/03/video-and-language-prof-jiebo-luo-university-rochester-0)] |
+| March 22 | [[Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)] | Rudra Saha | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190322_GAT_presentation.pdf)] |
+| April 14 | [[Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644.pdf)] | Mohit Bajaj | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190414Adversarial%20Autoencoders.pdf)] |
+| June 26 | [[Normalizing Flows](https://blog.evjang.com/2018/01/nf1.html)] | Michael Przystupa | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190626_Normalizing_Flows_tutorial.pdf)] |
+| July 4 | [[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)] | Arun Rajendran | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190704_xlnet.pdf)] |
+| July 11 | [[Linguistic Variation]()] | Ife Adebara | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190419_language.pdf)] |
+| July 25 | [[Analyzing Polarization in Social Media: Method and Application to Tweets on 21 Mass Shootings](https://arxiv.org/pdf/1904.01596.pdf)] | Peter Sullivan | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190725Analyzing_Polarization.pdf)] |
+| August 1 | [[Analysis and detection of information types of open source software issue discussions](https://arxiv.org/pdf/1902.07093.pdf)] | Arthur Marques  | [[slides](https://github.com/UBC-NLP/dlr/blob/master/slides/20190801Analysis_and_detection_software_issue.pdf)] |
+| August 8 | [[PyTorch Seq2Seq](https://github.com/bentrevett/pytorch-seq2seq)] | Rudra Saha | [[slides](https://github.com/bentrevett/pytorch-seq2seq)] |
+
 ---
 
 ### Fall / Winter I, 2018
