@@ -7,7 +7,7 @@
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 | Sept. 12 | [[Defending Against Neural Fake News](https://arxiv.org/abs/1905.12616)] | Ganesh Jawahar | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20190912_neural_fake_news.pdf)]|
-| Sept. 19 | | | |
+| Sept. 19 |[[Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/pdf/1903.12136.pdf)] | Chiyu Zhang | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20190919_distilling_bert.pdf)]|
 | Sept. 26 | | | |
 | Oct. 3 | | | |
 
