@@ -9,7 +9,8 @@
 | Sept. 12 | [[Defending Against Neural Fake News](https://arxiv.org/abs/1905.12616)] | Ganesh Jawahar | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20190912_neural_fake_news.pdf)]|
 | Sept. 19 |[[Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/pdf/1903.12136.pdf)] | Chiyu Zhang | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20190919_distilling_bert.pdf)]|
 | Sept. 26 |[[Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis](https://www.aclweb.org/anthology/P19-1053)]| Azadeh Hashemi |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20190926_Progressive_Self-Supervised.pdf)] |
-| Oct. 3 | | | |
+| Oct. 10 |[[Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences](https://arxiv.org/pdf/1909.08582.pdf)]|Kaili Vesik |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20191010_Code-Switched%20Language%20Models.pdf)] |
+| Oct. 17 |[[Learning Transferable Feature Representations Using Neural Networks](https://www.aclweb.org/anthology/P19-1404/)]|Ganesh Jawahar |[[slides]()] |
 
 ---
 ## Spring / Winter II, 2018
