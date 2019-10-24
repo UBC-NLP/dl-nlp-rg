@@ -11,6 +11,7 @@
 | Sept. 26 |[[Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis](https://www.aclweb.org/anthology/P19-1053)]| Azadeh Hashemi |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20190926_Progressive_Self-Supervised.pdf)] |
 | Oct. 10 |[[Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences](https://arxiv.org/pdf/1909.08582.pdf)]|Kaili Vesik |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20191010_Code-Switched%20Language%20Models.pdf)] |
 | Oct. 17 |[[Learning Transferable Feature Representations Using Neural Networks](https://www.aclweb.org/anthology/P19-1404/)]|Ganesh Jawahar |[[slides]()] |
+| Oct. 24 |[[Learning Transferable Feature Representations Using Neural Networks](https://www.aclweb.org/anthology/P19-1404/)]|Ganesh Jawahar |[[slides]()] |
 
 ---
 ## Spring / Winter II, 2018
