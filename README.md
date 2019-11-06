@@ -12,6 +12,8 @@
 | Oct. 10 |[[Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences](https://arxiv.org/pdf/1909.08582.pdf)]|Kaili Vesik |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20191010_Code-Switched%20Language%20Models.pdf)] |
 | Oct. 17 |[[Learning Transferable Feature Representations Using Neural Networks](https://www.aclweb.org/anthology/P19-1404/)]|Ganesh Jawahar |[[slides]()] |
 | Oct. 24 |[[Learning Transferable Feature Representations Using Neural Networks](https://www.aclweb.org/anthology/P19-1404/)]|Ganesh Jawahar |[[slides]()] |
+| Oct. 24 |[[ALBERT](https://arxiv.org/abs/1909.11942)] & [[ROBERTA](https://arxiv.org/abs/1907.11692)]|Rudra Saha |[[slides]()] |
+
 
 ---
 ## Spring / Winter II, 2018
