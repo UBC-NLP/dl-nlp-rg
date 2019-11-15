@@ -14,6 +14,7 @@
 | Oct. 24 |[[Learning Transferable Feature Representations Using Neural Networks](https://www.aclweb.org/anthology/P19-1404/)]|Ganesh Jawahar |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20191024_dann_acl19.pdf)] |
 | Oct. 31 |[[ALBERT](https://arxiv.org/abs/1909.11942)] & [[ROBERTA](https://arxiv.org/abs/1907.11692)]|Rudra Saha |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20191031_ALBERT%20%26%20ROBERTA.pdf)] |
 | Nov. 7 |[[Topic-Guided Variational Autoencoders for Text Generation](https://arxiv.org/abs/1909.11942)] | Raymond Li |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20191107_TGVAE_presentation.pdf)] |
+| Nov. 14 |[[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)] | Arun Rajendran |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20191114_BART.pdf)] |
 
 ---
 ## Spring / Winter II, 2018
