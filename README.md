@@ -6,11 +6,11 @@
 ### Place: ICICS 304
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
-| Jan. 9 | [[Programming tutorial of Pytorch](https://arxiv.org/pdf/1904.05862v4.pdf)] | Ganesh Jawahar | [[slides]()]|
+| Jan. 9 | [[Programming tutorial of Pytorch](https://arxiv.org/pdf/1904.05862v4.pdf)] | Ganesh Jawahar | [[slides](https://github.com/UBC-NLP/dlnlp2019_resources/blob/master/sl2_mod1_jan20_lab1_pytorch_main.ipynb)]|
 | Jan. 22 | [[WAV2VEC: UNSUPERVISED PRE-TRAINING FOR SPEECH RECOGNITION](https://arxiv.org/pdf/1904.05862v4.pdf)] | Muhammad M. Abdul-Mageed | [[slides]()]|
 | Jan. 29 | [[Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond]( https://arxiv.org/pdf/1812.10464.pdf)] | Ife Adebara | [[slides]()]|
-| Feb. 5 | [[Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation Comprehension]( https://papers.nips.cc/paper/9284-controllable-unsupervised-text-attribute-transfer-via-editing-entangled-latent-representation.pdf)] | Chiyu Zhang | [[slides]()]|
-| Feb. 12 | [[Intro to Speech Processing](https://drive.google.com/open?id=1c7pGCL5xXu8DS1P3hN7ayO02ZZgs9LV2)] | Arian Shamei | [[slides]()]|
+| Feb. 5 | [[Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation Comprehension]( https://papers.nips.cc/paper/9284-controllable-unsupervised-text-attribute-transfer-via-editing-entangled-latent-representation.pdf)] | Chiyu Zhang | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200205style%20transfer.pdf)]|
+| Feb. 12 | [[Intro to Speech Processing](https://drive.google.com/open?id=1c7pGCL5xXu8DS1P3hN7ayO02ZZgs9LV2)] | Arian Shamei | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200212IntrotoSpeech.ipynb)]|
 
 ---
 
