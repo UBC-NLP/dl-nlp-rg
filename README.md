@@ -1,5 +1,19 @@
 # Deep Learning & Natural Language Processing Reading Group (DL-NLP) | University of British Columbia (UBC)
 
+## Spring / Winter II, 2020
+
+### Time: Wenesday 4:15pm - 5:30pm 
+### Place: ICICS 304
+| Time | Topic/Paper | Presenter | Slides |
+| ----  | ------ | ------- | ------ |
+| Jan. 9 | [[Programming tutorial of Pytorch](https://arxiv.org/pdf/1904.05862v4.pdf)] | Ganesh Jawahar | [[slides]()]|
+| Jan. 22 | [[WAV2VEC: UNSUPERVISED PRE-TRAINING FOR SPEECH RECOGNITION](https://arxiv.org/pdf/1904.05862v4.pdf)] | Muhammad M. Abdul-Mageed | [[slides]()]|
+| Jan. 29 | [[Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond]( https://arxiv.org/pdf/1812.10464.pdf)] | Ife Adebara | [[slides]()]|
+| Feb. 5 | [[Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation Comprehension]( https://papers.nips.cc/paper/9284-controllable-unsupervised-text-attribute-transfer-via-editing-entangled-latent-representation.pdf)] | Chiyu Zhang | [[slides]()]|
+| Feb. 12 | [[Intro to Speech Processing](https://drive.google.com/open?id=1c7pGCL5xXu8DS1P3hN7ayO02ZZgs9LV2)] | Arian Shamei | [[slides]()]|
+
+---
+
 ## Fall / Winter I, 2019
 
 ### Time: Thursdays 5:00pm - 6:30pm 
