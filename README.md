@@ -11,8 +11,9 @@
 | Jan. 29 | [[Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond]( https://arxiv.org/pdf/1812.10464.pdf)] | Ife Adebara | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200129_Zero-Shot_Cross-Lingual_Transfer.pdf)]|
 | Feb. 5 | [[Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation Comprehension]( https://papers.nips.cc/paper/9284-controllable-unsupervised-text-attribute-transfer-via-editing-entangled-latent-representation.pdf)] | Chiyu Zhang | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200205style%20transfer.pdf)]|
 | Feb. 12 | [[Intro to Speech Processing](https://drive.google.com/open?id=1c7pGCL5xXu8DS1P3hN7ayO02ZZgs9LV2)] | Arian Shamei | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200212IntrotoSpeech.ipynb)]|
-| Feb. 19 | | Reading Break | |
+| Feb. 19 | Reading Break | | |
 | Feb. 12 | [[Intro to Speech Processing](https://drive.google.com/open?id=1c7pGCL5xXu8DS1P3hN7ayO02ZZgs9LV2)] | Arian Shamei | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200226_Intro%20to%20Speech%20Processing.pdf)]|
+| Mar. 4 | [[Effectiveness of self-supervised pre-training for speech recognition](https://arxiv.org/pdf/1911.03912.pdf)] | Sara Uppal | [[slides]()]|
 
 ---
 
