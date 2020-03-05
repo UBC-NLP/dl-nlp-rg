@@ -13,7 +13,7 @@
 | Feb. 12 | [[Intro to Speech Processing](https://drive.google.com/open?id=1c7pGCL5xXu8DS1P3hN7ayO02ZZgs9LV2)] | Arian Shamei | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200212IntrotoSpeech.ipynb)]|
 | Feb. 19 | Reading Break | | |
 | Feb. 12 | [[Intro to Speech Processing](https://drive.google.com/open?id=1c7pGCL5xXu8DS1P3hN7ayO02ZZgs9LV2)] | Arian Shamei | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200226_Intro%20to%20Speech%20Processing.pdf)]|
-| Mar. 4 | [[Effectiveness of self-supervised pre-training for speech recognition](https://arxiv.org/pdf/1911.03912.pdf)] | Sara Uppal | [[slides]()]|
+| Mar. 4 | [[Effectiveness of self-supervised pre-training for speech recognition](https://arxiv.org/pdf/1911.03912.pdf)] | Muhammad M. Abdul-Mageed | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200304vq-wav2vec.pdf)]|
 
 ---
 
