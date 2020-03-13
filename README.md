@@ -14,6 +14,7 @@
 | Feb. 19 | Reading Break | | |
 | Feb. 12 | [[Intro to Speech Processing](https://drive.google.com/open?id=1c7pGCL5xXu8DS1P3hN7ayO02ZZgs9LV2)] | Arian Shamei | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200226_Intro%20to%20Speech%20Processing.pdf)]|
 | Mar. 4 | [[Effectiveness of self-supervised pre-training for speech recognition](https://arxiv.org/pdf/1911.03912.pdf)] | Muhammad M. Abdul-Mageed | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200304vq-wav2vec.pdf)]|
+| Mar. 11 | [[Compressive Transformers for Long-Range Sequence Modelling](https://arxiv.org/pdf/1911.05507.pdf)] | Arun Rajendran | [[slides](https://arxiv.org/pdf/1911.05507.pdf)]|
 
 ---
 
