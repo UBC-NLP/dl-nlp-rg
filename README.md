@@ -16,7 +16,10 @@
 | Mar. 4 | [[Effectiveness of self-supervised pre-training for speech recognition](https://arxiv.org/pdf/1911.03912.pdf)] | Muhammad M. Abdul-Mageed | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200304vq-wav2vec.pdf)]|
 | Mar. 11 | [[Compressive Transformers for Long-Range Sequence Modelling](https://arxiv.org/pdf/1911.05507.pdf)] | Arun Rajendran | [[slides](https://arxiv.org/pdf/1911.05507.pdf)]|
 | Mar. 18 | Canceled | | |
-| Mar. 11 | [[Analysis Methods in Neural Language Processing: A Survey](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00254)] | Ganesh Jawahar | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200325_analysis_methods_survey.pdf)]|
+| Mar. 15 | [[Analysis Methods in Neural Language Processing: A Survey](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00254)] | Ganesh Jawahar | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200325_analysis_methods_survey.pdf)]|
+| Apr. 8 | dialogue act recognition | Rudra Saha, Ife Adebara, and Chiyu Zhang| [[slides]()]|
+| Apr. 15 | [GLTR: Statistical Detection and Visualization of Generated Text](https://www.aclweb.org/anthology/P19-3019.pdf), [Human and Automatic Detection of Generated Text](https://arxiv.org/pdf/1911.00650.pdf) |Ganesh Jawahar | [[slides]()]|
+| Apr. 22 | Developing Yorùbá-English Machine Translation Models and Assessing What They Learn About Yorùbá Bare Nouns | Ife Adebara| [[slides]()]|
 
 ---
 
@@ -32,7 +35,8 @@
 | Oct. 10 |[[Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences](https://arxiv.org/pdf/1909.08582.pdf)]|Kaili Vesik |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20191010_Code-Switched%20Language%20Models.pdf)] |
 | Oct. 17 |[[Learning Transferable Feature Representations Using Neural Networks](https://www.aclweb.org/anthology/P19-1404/)]|Ganesh Jawahar |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20191024_dann_acl19.pdf)] |
 | Oct. 24 |[[Learning Transferable Feature Representations Using Neural Networks](https://www.aclweb.org/anthology/P19-1404/)]|Ganesh Jawahar |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20191024_dann_acl19.pdf)] |
-| Oct. 31 |[[ALBERT](https://arxiv.org/abs/1909.11942)] & [[ROBERTA](https://arxiv.org/abs/1907.11692)]|Rudra Saha |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20191031_ALBERT%20%26%20ROBERTA.pdf)] |
+| Oct. 31 |[[ALBERT](https://arxiv.org/abs/1909.11942)] & [[ROBERTA](https://arxiv.org/abs/1907.11692)]|
+Saha |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20191031_ALBERT%20%26%20ROBERTA.pdf)] |
 | Nov. 7 |[[Topic-Guided Variational Autoencoders for Text Generation](https://arxiv.org/abs/1909.11942)] | Raymond Li |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20191107_TGVAE_presentation.pdf)] |
 | Nov. 14 |[[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf)] | Arun Rajendran |[[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20191114_BART.pdf)] |
 
