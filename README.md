@@ -20,7 +20,7 @@
 | Apr. 8 | dialogue act recognition | Rudra Saha, Ife Adebara, and Chiyu Zhang| [[slides]()]|
 | Apr. 15 | [GLTR: Statistical Detection and Visualization of Generated Text](https://www.aclweb.org/anthology/P19-3019.pdf), [Human and Automatic Detection of Generated Text](https://arxiv.org/pdf/1911.00650.pdf) |Ganesh Jawahar | [[slides]()]|
 | Apr. 22 | Developing Yorùbá-English Machine Translation Models and Assessing What They Learn About Yorùbá Bare Nouns | Ife Adebara| [[slides]()]|
-| May. 6 | [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257) | Sylvester Li | [[slides]()]|
+| May. 6 | [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257) | Sylvester Li | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200506_Introduction_to_Normalizing_Flow.pdf)]|
 | May. 13 | [Neural Text Generation with Unlikelihood Training](https://arxiv.org/pdf/1908.04319.pdf) | Ganesh Jawahar | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200513_unlikelihood_training.pdf)]|
 | June. 17 | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) | Muhammad Abdul-Mageed | [[slides]()]|
 
