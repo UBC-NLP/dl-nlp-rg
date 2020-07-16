@@ -5,7 +5,7 @@
 ### Place: Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
-| May. 6 | [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257) | Sylvester Li | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200506_Introduction_to_Normalizing_Flow.pdf)]|
+| May. 6 | [[Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257)] | Sylvester Li | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200506_Introduction_to_Normalizing_Flow.pdf)]|
 | May. 13 | [[Neural Text Generation with Unlikelihood Training](https://arxiv.org/pdf/1908.04319.pdf)] | Ganesh Jawahar | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200513_unlikelihood_training.pdf)]|
 | June. 17 | [[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)] | Muhammad Abdul-Mageed | [[slides]()]|
 | July. 15 | [Introduction to Automatic Speech Recognition and Speech Translation] | Peter Sullivan | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200715_Speech_Presentation.pdf)]|
@@ -30,7 +30,7 @@
 | Mar. 15 | [[Analysis Methods in Neural Language Processing: A Survey](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00254)] | Ganesh Jawahar | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200325_analysis_methods_survey.pdf)]|
 | Apr. 8 | dialogue act recognition | Rudra Saha, Ife Adebara, and Chiyu Zhang| [[slides]()]|
 | Apr. 15 | [[GLTR: Statistical Detection and Visualization of Generated Text](https://www.aclweb.org/anthology/P19-3019.pdf)], [[Human and Automatic Detection of Generated Text](https://arxiv.org/pdf/1911.00650.pdf)] |Ganesh Jawahar | [[slides]()]|
-| Apr. 22 | Developing Yorùbá-English Machine Translation Models and Assessing What They Learn About Yorùbá Bare Nouns | Ife Adebara| [[slides]()]|
+| Apr. 22 | [Developing Yorùbá-English Machine Translation Models and Assessing What They Learn About Yorùbá Bare Nouns] | Ife Adebara| [[slides]()]|
 
 
 ---
