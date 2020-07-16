@@ -23,7 +23,7 @@
 | May. 6 | [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257) | Sylvester Li | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200506_Introduction_to_Normalizing_Flow.pdf)]|
 | May. 13 | [Neural Text Generation with Unlikelihood Training](https://arxiv.org/pdf/1908.04319.pdf) | Ganesh Jawahar | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200513_unlikelihood_training.pdf)]|
 | June. 17 | [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) | Muhammad Abdul-Mageed | [[slides]()]|
-| July. 15 | [Introduction to Automatic Speech Recognition and Speech Translation] | Peter Sullivan | [[slides]()]|
+| July. 15 | [Introduction to Automatic Speech Recognition and Speech Translation] | Peter Sullivan | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200715_Speech_Presentation.pdf)]|
 
 
 
