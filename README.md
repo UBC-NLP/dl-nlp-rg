@@ -9,6 +9,7 @@
 | May. 13 | [[Neural Text Generation with Unlikelihood Training](https://arxiv.org/pdf/1908.04319.pdf)] | Ganesh Jawahar | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200513_unlikelihood_training.pdf)]|
 | June. 17 | [[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)] | Muhammad Abdul-Mageed | [[slides]()]|
 | July. 15 | [Introduction to Automatic Speech Recognition and Speech Translation] | Peter Sullivan | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200715_Speech_Presentation.pdf)]|
+| July. 22 | [ACL 2020 Paper Review] | Peter Sullivan, Ganesh Jawahar | [[Peter's slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200722_Peter_ACL_recap.pdf)], [[Ganesh's slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200722_Ganesh_acl_2020_summary.pdf)]|
 
 ---
 ## Spring / Winter II 2020
