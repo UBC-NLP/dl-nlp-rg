@@ -10,6 +10,7 @@
 | June. 17 | [[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)] | Muhammad Abdul-Mageed | [[slides]()]|
 | July. 15 | [Introduction to Automatic Speech Recognition and Speech Translation] | Peter Sullivan | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200715_Speech_Presentation.pdf)]|
 | July. 22 | [ACL 2020 Paper Review] | Peter Sullivan, Ganesh Jawahar | [[Peter's slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200722_Peter_ACL_recap.pdf)], [[Ganesh's slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200722_Ganesh_acl_2020_summary.pdf)]|
+| July. 29 | [ACL 2020 Paper Review] | Ganesh Jawahar | [[Ganesh's slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200722_Ganesh_acl_2020_summary.pdf)]|
 
 ---
 ## Spring / Winter II 2020
