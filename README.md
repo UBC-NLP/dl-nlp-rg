@@ -1,4 +1,12 @@
 # Deep Learning & Natural Language Processing Reading Group (DL-NLP) | University of British Columbia (UBC)
+## Winter I 2020
+### Time: Wenesday 4:15pm - 5:30pm 
+### Place: Zoom
+| Time | Topic/Paper | Presenter | Slides |
+| ----  | ------ | ------- | ------ |
+| Sep. 16 | [IARPA Babel corpora and implications for multilingual grapheme-to-phoneme and phone detection models](https://www.cair.org.za/sites/default/files/2020-04/davel-2015-exploring-minimal-pronunciation.pdf) | Peter Sullivan | [[Slides]()]|
+
+---
 ## Summer I & II 2020
 
 ### Time: Wenesday 4:15pm - 5:30pm 
