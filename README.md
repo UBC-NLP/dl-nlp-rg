@@ -11,6 +11,7 @@
 | July. 15 | [Introduction to Automatic Speech Recognition and Speech Translation] | Peter Sullivan | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200715_Speech_Presentation.pdf)]|
 | July. 22 | [ACL 2020 Paper Review] | Peter Sullivan, Ganesh Jawahar | [[Peter's slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200722_Peter_ACL_recap.pdf)], [[Ganesh's slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200722_Ganesh_acl_2020_summary.pdf)]|
 | July. 29 | [ACL 2020 Paper Review] | Ganesh Jawahar | [[Ganesh's slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200722_Ganesh_acl_2020_summary.pdf)]|
+| Aug. 29 | [ACL 2020 Paper Review] | Chiyu Zhang | [[Chiyu's slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200805_acl2020.pdf)]|
 
 ---
 ## Spring / Winter II 2020
