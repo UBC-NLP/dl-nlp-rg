@@ -1,5 +1,5 @@
 # Deep Learning & Natural Language Processing Reading Group (DL-NLP) | University of British Columbia (UBC)
-If you are interesing to receive the meeting information and attend, please subscribe the mail: ubc-nlp@googlegroups.com
+If you are interested in receiving the meeting information and attending, please subscribe to the mail: ubc-nlp@googlegroups.com
 
 ## Winter I 2020
 ### Time: Wenesday 4:15pm - 5:30pm 
