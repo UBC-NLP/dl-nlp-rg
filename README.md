@@ -1,4 +1,14 @@
 # Deep Learning & Natural Language Processing Reading Group (DL-NLP) | University of British Columbia (UBC)
+If you are interested in receiving the meeting information and attending, please subscribe to the mail: ubc-nlp@googlegroups.com
+
+## Winter I 2020
+### Time: Wenesday 4:15pm - 5:30pm 
+### Place: Zoom
+| Time | Topic/Paper | Presenter | Slides |
+| ----  | ------ | ------- | ------ |
+| Sep. 16 | [IARPA Babel corpora and implications for multilingual grapheme-to-phoneme and phone detection models](https://www.cair.org.za/sites/default/files/2020-04/davel-2015-exploring-minimal-pronunciation.pdf) | Peter Sullivan | [[Slides]()]|
+
+---
 ## Summer I & II 2020
 
 ### Time: Wenesday 4:15pm - 5:30pm 
@@ -11,7 +21,8 @@
 | July. 15 | [Introduction to Automatic Speech Recognition and Speech Translation] | Peter Sullivan | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200715_Speech_Presentation.pdf)]|
 | July. 22 | [ACL 2020 Paper Review] | Peter Sullivan, Ganesh Jawahar | [[Peter's slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200722_Peter_ACL_recap.pdf)], [[Ganesh's slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200722_Ganesh_acl_2020_summary.pdf)]|
 | July. 29 | [ACL 2020 Paper Review] | Ganesh Jawahar | [[Ganesh's slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200722_Ganesh_acl_2020_summary.pdf)]|
-| Aug. 29 | [ACL 2020 Paper Review] | Chiyu Zhang | [[Chiyu's slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200805_acl2020.pdf)]|
+| Aug. 5 | [ACL 2020 Paper Review] | Chiyu Zhang | [[Chiyu's slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200805_acl2020.pdf)]|
+| Aug. 26 | [Introducing the speech processing toolkit ESPnet](https://arxiv.org/pdf/1804.00015.pdf) | Peter Sullivan | [[ESPnet documentation](https://espnet.github.io/espnet/index.html)]|
 
 ---
 ## Spring / Winter II 2020
