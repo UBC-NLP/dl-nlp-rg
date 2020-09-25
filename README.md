@@ -6,7 +6,9 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
-| Sep. 16 | [IARPA Babel corpora and implications for multilingual grapheme-to-phoneme and phone detection models](https://www.cair.org.za/sites/default/files/2020-04/davel-2015-exploring-minimal-pronunciation.pdf) | Peter Sullivan | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200916_BABEL_overview_and_discussion.pdf)]|
+| Sep. 16 | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf) | Muhammad Abdul-Mageed | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200916_BABEL_overview_and_discussion.pdf)]|
+| Sep. 23 | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://www.cair.org.za/sites/default/files/2020-04/davel-2015-exploring-minimal-pronunciation.pdf) | Peter Sullivan | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200916_BABEL_overview_and_discussion.pdf)]|
+| Sep. 30 | [IARPA Babel corpora and implications for multilingual grapheme-to-phoneme and phone detection models](https://www.cair.org.za/sites/default/files/2020-04/davel-2015-exploring-minimal-pronunciation.pdf) | Muhammad Abdul-Mageed | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200916_BABEL_overview_and_discussion.pdf)]|
 
 ---
 ## Summer I & II 2020
