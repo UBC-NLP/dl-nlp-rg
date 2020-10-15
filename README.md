@@ -9,6 +9,8 @@ If you are interested in receiving the meeting information and attending, please
 | Sep. 16 | [IARPA Babel corpora and implications for multilingual grapheme-to-phoneme and phone detection models](https://www.cair.org.za/sites/default/files/2020-04/davel-2015-exploring-minimal-pronunciation.pdf) | Peter Sullivan | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200916_BABEL_overview_and_discussion.pdf)]|
 | Sep. 23 | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf) | Muhammad Abdul-Mageed | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200923_T5.pdf)]|
 | Sep. 30 | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf) | Muhammad Abdul-Mageed | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200923_T5.pdf)]|
+| Oct. 7 | [Leveraging multi-parallelism in the Bible for cross-lingual learning](https://www.aclweb.org/anthology/2020.lrec-1.352/) | Garrett Nicolai | [[Video](https://youtu.be/raKwVKF_0oc)]|
+| Oct. 7 | [Uncertainty-aware Self-training for Few-shot Text Classification](https://www.microsoft.com/en-us/research/uploads/prod/2020/06/uncertainty_self_training_neurips_2020.pdf) | Ganesh Jawahar | [[Slides]()]|
 
 ---
 ## Summer I & II 2020
