@@ -12,8 +12,9 @@ If you are interested in receiving the meeting information and attending, please
 | Oct. 7 | [Leveraging multi-parallelism in the Bible for cross-lingual learning](https://www.aclweb.org/anthology/2020.lrec-1.352/) | Garrett Nicolai | [[Video](https://youtu.be/raKwVKF_0oc)]|
 | Oct. 14 | [Uncertainty-aware Self-training for Few-shot Text Classification](https://www.microsoft.com/en-us/research/uploads/prod/2020/06/uncertainty_self_training_neurips_2020.pdf) | Ganesh Jawahar | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201014_uncertainity_sampling_oct14.pdf)]|
 | Oct. 21 | [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/pdf?id=r1xMH1BtvB) | Chiyu Zhang | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201025_ELECTRA.pdf)]|
-| Oct. 28 | [Context-Aware Neural Machine Translation Decoding](https://www.aclweb.org/anthology/D19-6502.pdf) | Ife Adebara | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201104_Context_Aware_NMT-presentation.pdf)]|
-| Nov. 4 | [Context-Aware Neural Machine Translation Decoding](https://www.aclweb.org/anthology/D19-6502.pdf), [Improving Context-aware Neural Machine Translation with Target-side Context](https://www.aclweb.org/anthology/D19-6502.pdf)| Ife Adebara | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201104_Context_Aware_NMT-presentation.pdf)]|
+| Oct. 28 | [Context-Aware Neural Machine Translation Decoding](https://www.aclweb.org/anthology/D19-6502.pdf), [Improving Context-aware Neural Machine Translation with Target-side Context](https://www.aclweb.org/anthology/D19-6502.pdf)| Ife Adebara | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201104_Context_Aware_NMT-presentation.pdf)]|
+| Nov. 4 | [Context-Aware Monolingual Repair for Neural Machine Translation](https://arxiv.org/pdf/1909.01383.pdf) | Ife Adebara | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201104_Context_Aware_NMT-presentation.pdf)]|
+| Nov. 4 | [ HuggingFace Datasets tutorial](https://github.com/huggingface/datasets) | Ganesh Jawahar | [[Notebook]()]|
 
 ---
 ## Summer I & II 2020
