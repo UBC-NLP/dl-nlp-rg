@@ -14,7 +14,7 @@ If you are interested in receiving the meeting information and attending, please
 | Oct. 21 | [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/pdf?id=r1xMH1BtvB) | Chiyu Zhang | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201025_ELECTRA.pdf)]|
 | Oct. 28 | [Context-Aware Neural Machine Translation Decoding](https://www.aclweb.org/anthology/D19-6502.pdf), [Improving Context-aware Neural Machine Translation with Target-side Context](https://www.aclweb.org/anthology/D19-6502.pdf)| Ife Adebara | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201104_Context_Aware_NMT-presentation.pdf)]|
 | Nov. 4 | [Context-Aware Monolingual Repair for Neural Machine Translation](https://arxiv.org/pdf/1909.01383.pdf) | Ife Adebara | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201104_Context_Aware_NMT-presentation.pdf)]|
-| Nov. 4 | [ HuggingFace Datasets tutorial](https://github.com/huggingface/datasets) | Ganesh Jawahar | [[Notebook]()]|
+| Nov. 4 | [ HuggingFace Datasets tutorial](https://github.com/huggingface/datasets) | Ganesh Jawahar | [[Notebook](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/tutorial/20201104_huggingface_datasets_tutorial.ipynb)]|
 | Nov. 11 | Remembrance Day |  ||
 
 ---
@@ -44,7 +44,7 @@ If you are interested in receiving the meeting information and attending, please
 | Jan. 22 | [[WAV2VEC: UNSUPERVISED PRE-TRAINING FOR SPEECH RECOGNITION](https://arxiv.org/pdf/1904.05862v4.pdf)] | Muhammad M. Abdul-Mageed | [[slides]()]|
 | Jan. 29 | [[Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond]( https://arxiv.org/pdf/1812.10464.pdf)] | Ife Adebara | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200129_Zero-Shot_Cross-Lingual_Transfer.pdf)]|
 | Feb. 5 | [[Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation Comprehension]( https://papers.nips.cc/paper/9284-controllable-unsupervised-text-attribute-transfer-via-editing-entangled-latent-representation.pdf)] | Chiyu Zhang | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200205style%20transfer.pdf)]|
-| Feb. 12 | [[Intro to Speech Processing](https://drive.google.com/open?id=1c7pGCL5xXu8DS1P3hN7ayO02ZZgs9LV2)] | Arian Shamei | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200212IntrotoSpeech.ipynb)]|
+| Feb. 12 | [[Intro to Speech Processing](https://drive.google.com/open?id=1c7pGCL5xXu8DS1P3hN7ayO02ZZgs9LV2)] | Arian Shamei | [[Notebook](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/tutorial/20200212IntrotoSpeech.ipynb)]|
 | Feb. 19 | Reading Break | | |
 | Feb. 12 | [[Intro to Speech Processing](https://drive.google.com/open?id=1c7pGCL5xXu8DS1P3hN7ayO02ZZgs9LV2)] | Arian Shamei | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200226_Intro%20to%20Speech%20Processing.pdf)]|
 | Mar. 4 | [[Effectiveness of self-supervised pre-training for speech recognition](https://arxiv.org/pdf/1911.03912.pdf)] | Muhammad M. Abdul-Mageed | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200304vq-wav2vec.pdf)]|
