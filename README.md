@@ -15,6 +15,7 @@ If you are interested in receiving the meeting information and attending, please
 | Oct. 28 | [Context-Aware Neural Machine Translation Decoding](https://www.aclweb.org/anthology/D19-6502.pdf), [Improving Context-aware Neural Machine Translation with Target-side Context](https://www.aclweb.org/anthology/D19-6502.pdf)| Ife Adebara | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201104_Context_Aware_NMT-presentation.pdf)]|
 | Nov. 4 | [Context-Aware Monolingual Repair for Neural Machine Translation](https://arxiv.org/pdf/1909.01383.pdf) | Ife Adebara | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201104_Context_Aware_NMT-presentation.pdf)]|
 | Nov. 4 | [ HuggingFace Datasets tutorial](https://github.com/huggingface/datasets) | Ganesh Jawahar | [[Notebook]()]|
+| Nov. 11 | Remembrance Day |  ||
 
 ---
 ## Summer I & II 2020
