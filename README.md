@@ -2,7 +2,7 @@
 If you are interested in receiving the meeting information and attending, please subscribe to the mail: ubc-nlp@googlegroups.com
 
 ## Winter I 2020
-### Time: Wenesday 4:15pm - 5:30pm 
+### Time: Wenesday 4:15pm - 5:30pm (Vancouver time)
 ### Place: Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
