@@ -16,6 +16,11 @@ If you are interested in receiving the meeting information and attending, please
 | Nov. 4 | [Context-Aware Monolingual Repair for Neural Machine Translation](https://arxiv.org/pdf/1909.01383.pdf) | Ife Adebara | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201104_Context_Aware_NMT-presentation.pdf)]|
 | Nov. 4 | [ HuggingFace Datasets tutorial](https://github.com/huggingface/datasets) | Ganesh Jawahar | [[Notebook](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/tutorial/20201104_huggingface_datasets_tutorial.ipynb)]|
 | Nov. 11 | Remembrance Day |  ||
+| Nov. 18 | [Self-Training for End-to-End Speech Translation](https://isca-speech.org/archive/Interspeech_2020/pdfs/2938.pdf), [Self-training and Pre-training are Complementary for Speech Recognition](https://arxiv.org/pdf/2010.11430.pdf) | Peter Sullivan |[[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201118_Self_Training_for_Speech_Recognition.pdf)]|
+| Nov. 25 | [CAIDA "BC AI showcase" event](https://caida.ubc.ca/event/emerging-technologies-bcs-ai-showcase) | Ganesh, Abdul, Moatez and Chiyu |[[Posters](https://github.com/UBC-NLP/presentation_collection)]|
+| Dec. 2 | EMNLP-2020 Paper Review | Ganesh Jawahar |[[Slides]()]|
+| Dec. 9 | EMNLP-2020 Paper Review | Ganesh Jawahar, Chiyu Zhang |[[Slides]()]|
+| Dec. 16 | [Bilingual Acoustic Voice Variation is Similarly Structured Across Languages](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/3095.html) | Khia Johnson |[[Slides]()]|
 
 ---
 ## Summer I & II 2020
