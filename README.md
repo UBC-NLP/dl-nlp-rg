@@ -20,7 +20,7 @@ If you are interested in receiving the meeting information and attending, please
 | Nov. 25 | [CAIDA "BC AI showcase" event](https://caida.ubc.ca/event/emerging-technologies-bcs-ai-showcase) | Ganesh, Abdul, Moatez and Chiyu |[[Posters](https://github.com/UBC-NLP/presentation_collection)]|
 | Dec. 2 | EMNLP-2020 Paper Review | Ganesh Jawahar |[[Slides]()]|
 | Dec. 9 | EMNLP-2020 Paper Review | Ganesh Jawahar, Chiyu Zhang |[[Slides]()]|
-| Dec. 16 | [Bilingual Acoustic Voice Variation is Similarly Structured Across Languages](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/3095.html) | Khia Johnson |[[Slides]()]|
+| Dec. 16 | [Bilingual Acoustic Voice Variation is Similarly Structured Across Languages](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/3095.html) | Khia Johnson |[[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201216_voice-variability-for-ubc-dl-nlp-lab.pdf)]|
 
 ---
 ## Summer I & II 2020
