@@ -19,7 +19,7 @@ If you are interested in receiving the meeting information and attending, please
 | Nov. 18 | [Self-Training for End-to-End Speech Translation](https://isca-speech.org/archive/Interspeech_2020/pdfs/2938.pdf), [Self-training and Pre-training are Complementary for Speech Recognition](https://arxiv.org/pdf/2010.11430.pdf) | Peter Sullivan |[[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201118_Self_Training_for_Speech_Recognition.pdf)]|
 | Nov. 25 | [CAIDA "BC AI showcase" event](https://caida.ubc.ca/event/emerging-technologies-bcs-ai-showcase) | Ganesh, Abdul, Moatez and Chiyu |[[Posters](https://github.com/UBC-NLP/presentation_collection)]|
 | Dec. 2 | EMNLP-2020 Paper Review | Ganesh Jawahar |[[Slides]()]|
-| Dec. 9 | EMNLP-2020 Paper Review | Ganesh Jawahar, Chiyu Zhang |[[Slides]()]|
+| Dec. 9 | EMNLP-2020 Paper Review | Ganesh Jawahar, Chiyu Zhang |[[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201209_EMNLP%202020%20Follow-up.pdf)]|
 | Dec. 16 | [Bilingual Acoustic Voice Variation is Similarly Structured Across Languages](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/3095.html) | Khia Johnson |[[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201216_voice-variability-for-ubc-dl-nlp-lab.pdf)]|
 | Dec. 23 | Twitter User Ideology Detection via BERT and Social Network | Chiyu Zhang |[[Slides]()]|
 | Dec. 30 | Automatic Detection of Manipulated Text using Factual Knowledge | Ganesh Jawahar |[[Slides]()]|
