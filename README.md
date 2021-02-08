@@ -6,7 +6,7 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
-
+|Jan. 13| [K-BERT: Enabling Language Representation with Knowledge Graph](https://arxiv.org/pdf/1909.07606.pdf), [DALL·E](https://openai.com/blog/dall-e/) | Chiyu Zhang, Muhammad Abdul-Mageed | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210113-KBERT.pdf)] |
 
 ## Winter I 2020
 ### Time: Wenesday 4:15pm - 5:30pm (Vancouver time)
