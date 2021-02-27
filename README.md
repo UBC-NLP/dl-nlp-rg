@@ -8,9 +8,9 @@ If you are interested in receiving the meeting information and attending, please
 | ----  | ------ | ------- | ------ |
 |Jan. 13| [K-BERT: Enabling Language Representation with Knowledge Graph](https://arxiv.org/pdf/1909.07606.pdf), [DALL·E](https://openai.com/blog/dall-e/) | Chiyu Zhang, Muhammad Abdul-Mageed | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210113-KBERT.pdf)] |
 |Jan. 20| [Visualizing Linguistic Diversity in Vancouver](https://www.cs.ubc.ca/~tmm/courses/547-20/projects/anika-namratha-roger/final-report.pdf) | Roger Yu-Hsiang Lo | [[Slides](https://www.cs.ubc.ca/~tmm/courses/547-20/projects/anika-namratha-roger/final-slides.pdf)] |
-|Feb. 10| [Train No Evil: Selective Masking for Task-Guided Pre-Training](https://www.aclweb.org/anthology/2020.emnlp-main.566.pdf) | Ganesh Jawahar | [[Slides]()] |
-|Feb. 17| [As good as new. How to successfully recycle English GPT-2 to make models for other languages](https://arxiv.org/pdf/2012.05628.pdf) | Ganesh Jawahar | [[Slides]()] |
-|Feb. 24| [CSP: Code-Switching Pre-training for Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.208.pdf) | Ife Adebara | [[Slides]()] |
+|Feb. 10| [Train No Evil: Selective Masking for Task-Guided Pre-Training](https://www.aclweb.org/anthology/2020.emnlp-main.566.pdf) | Ganesh Jawahar | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210210_selective-masking.pdf)] |
+|Feb. 17| [As good as new. How to successfully recycle English GPT-2 to make models for other languages](https://arxiv.org/pdf/2012.05628.pdf) | Ganesh Jawahar | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210217_recycle_gpt2_dapt_tapt.pdf)] |
+|Feb. 24| [CSP: Code-Switching Pre-training for Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.208.pdf) | Ife Adebara | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210224_Code-Switching_Pre-Training.pdf)] |
 
 ## Winter I 2020
 ### Time: Wenesday 4:15pm - 5:30pm (Vancouver time)
