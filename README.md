@@ -1,6 +1,13 @@
 # Deep Learning & Natural Language Processing Reading Group (DL-NLP) | University of British Columbia (UBC)
 If you are interested in receiving the meeting information and attending, please subscribe to the mail: ubc-nlp@googlegroups.com
 
+## Summer I 2021
+### Time: Wenesday 4:15pm - 5:30pm (Vancouver time)
+### Place: Zoom
+| Time | Topic/Paper | Presenter | Slides |
+| ----  | ------ | ------- | ------ |
+
+
 ## Winter II 2021
 ### Time: Wenesday 4:15pm - 5:30pm (Vancouver time)
 ### Place: Zoom
