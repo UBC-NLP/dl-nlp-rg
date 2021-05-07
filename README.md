@@ -25,6 +25,7 @@ If you are interested in receiving the meeting information and attending, please
 |Apr. 7| [If Beam Search is the Answer, What was the Question?](https://arxiv.org/pdf/2010.02650.pdf) [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://arxiv.org/pdf/1905.09418.pdf) | Dujian Ding | [[Slides](./slides/20210407_Analyzing_Multi-Head_Self-Attention_Specialized_Heads_Do_the_Heavy_Lifting,_the_Rest_Can_Be_Pruned.pdf)] |
 |Apr. 14| [Challenges of language technologies for the indigenous languages of the Americas](https://www.aclweb.org/anthology/C18-1006/) [Indigenous language technologies in Canada: Assessment, challenges, and successes](https://www.aclweb.org/anthology/C18-1222/) | Weirui Chen | [[Slides](./slides/20210414_Low-resource_MT.pdf)] |
 
+---
 ## Winter I 2020
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
@@ -80,7 +81,6 @@ If you are interested in receiving the meeting information and attending, please
 
 
 ---
-
 ## Fall / Winter I, 2019
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
