@@ -2,15 +2,15 @@
 If you are interested in receiving the meeting information and attending, please subscribe to the mail: ubc-nlp@googlegroups.com
 
 ## Summer I 2021
+
 ### Time: Wenesday 4:15pm - 5:30pm (Vancouver time)
 ### Place: Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 
-
+---
 ## Winter II 2021
-### Time: Wenesday 4:15pm - 5:30pm (Vancouver time)
-### Place: Zoom
+
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 |Jan. 13| [K-BERT: Enabling Language Representation with Knowledge Graph](https://arxiv.org/pdf/1909.07606.pdf), [DALL·E](https://openai.com/blog/dall-e/) | Chiyu Zhang, Muhammad Abdul-Mageed | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210113-KBERT.pdf)] |
@@ -26,8 +26,6 @@ If you are interested in receiving the meeting information and attending, please
 |Apr. 14| [Challenges of language technologies for the indigenous languages of the Americas](https://www.aclweb.org/anthology/C18-1006/) [Indigenous language technologies in Canada: Assessment, challenges, and successes](https://www.aclweb.org/anthology/C18-1222/) | Weirui Chen | [[Slides](./slides/20210414_Low-resource_MT.pdf)] |
 
 ## Winter I 2020
-### Time: Wenesday 4:15pm - 5:30pm (Vancouver time)
-### Place: Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 | Sep. 16 | [IARPA Babel corpora and implications for multilingual grapheme-to-phoneme and phone detection models](https://www.cair.org.za/sites/default/files/2020-04/davel-2015-exploring-minimal-pronunciation.pdf) | Peter Sullivan | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200916_BABEL_overview_and_discussion.pdf)]|
@@ -50,9 +48,6 @@ If you are interested in receiving the meeting information and attending, please
 
 ---
 ## Summer I & II 2020
-
-### Time: Wenesday 4:15pm - 5:30pm 
-### Place: Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 | May. 6 | [[Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257)] | Sylvester Li | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20200506_Introduction_to_Normalizing_Flow.pdf)]|
@@ -66,9 +61,6 @@ If you are interested in receiving the meeting information and attending, please
 
 ---
 ## Spring / Winter II 2020
-
-### Time: Wenesday 4:15pm - 5:30pm 
-### Place: ICICS 304
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 | Jan. 9 | [[Programming tutorial of Pytorch](https://arxiv.org/pdf/1904.05862v4.pdf)] | Ganesh Jawahar | [[slides](https://github.com/UBC-NLP/dlnlp2019_resources/blob/master/sl2_mod1_jan20_lab1_pytorch_main.ipynb)]|
@@ -90,9 +82,6 @@ If you are interested in receiving the meeting information and attending, please
 ---
 
 ## Fall / Winter I, 2019
-
-### Time: Thursdays 5:00pm - 6:30pm 
-### Place: ICICS X530 (X-Wing)
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 | Sept. 12 | [[Defending Against Neural Fake News](https://arxiv.org/abs/1905.12616)] | Ganesh Jawahar | [[slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20190912_neural_fake_news.pdf)]|
@@ -107,10 +96,6 @@ If you are interested in receiving the meeting information and attending, please
 
 ---
 ## Spring / Winter II, 2018
-
-### Time: Wednesdays 5:00pm - 6:00pm
-### Place: Greg Lab (IKB 462), School of information (iSchool)
-
 
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
