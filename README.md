@@ -7,6 +7,7 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
+|May. 19| [Arabic Speech Processing] | Ahmed Ali | [] |
 
 ---
 ## Winter II 2021
