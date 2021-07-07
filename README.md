@@ -28,6 +28,7 @@ If you are interested in receiving the meeting information and attending, please
 |Apr. 21| [[Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT](https://www.aclweb.org/anthology/2020.emnlp-main.214.pdf) ]  [[Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation](https://arxiv.org/pdf/2103.10531.pdf)] |  Ife Adebara | [[Slides]()] |
 |Apr. 28| EACL-2021 Paper Review |  | [[ACL Anthology](https://www.aclweb.org/anthology/events/eacl-2021/)] |
 |May 5| [Multilingual Speech Translation with Efficient Finetuning of Pretrained Models](https://arxiv.org/pdf/2010.12829.pdf) |  Peter Sulliva | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210505_Multilingual%20Speech%20Translation%20with%20Efficient%20Finetuning%20of%20Pretrained%20Models.pdf)] |
+|June 28| [NAACL2021 followup and Multi-Style Transfer with Discriminative Feedback on Disjoint Corpus](https://arxiv.org/pdf/2010.11578.pdf) |  Chiyu Zhang | [[Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210628_Multi-Style%20Transfer%20with%20Discriminative%20Feedback%20on%20Disjoint%20Corpus.pdf, https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210628_naacl_2021_followup.pdf)] |
 
 ---
 ## Winter I 2020
