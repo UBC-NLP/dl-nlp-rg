@@ -14,6 +14,7 @@ If you are interested in receiving the meeting information and attending, please
 |June 28| [Multi-Style Transfer with Discriminative Feedback on Disjoint Corpus](https://arxiv.org/pdf/2010.11578.pdf) |  Chiyu Zhang | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210628_Multi-Style%20Transfer%20with%20Discriminative%20Feedback%20on%20Disjoint%20Corpus.pdf) |
 |June 30 | [Unsupervised Speech Recognition](https://arxiv.org/pdf/2105.11084.pdf) | Peter Sulliva |  [Slides]() |
 |July 7| Adapter Module [Parameter-Efficient Transfer Learning for NLP](http://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf) [Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks](https://arxiv.org/pdf/2106.04489.pdf) |  Chiyu Zhang | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210707_Adapter_module.pdf)  |
+|July 14 | [DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://arxiv.org/abs/2105.03023) |  Alisa Liu | [Slides]() |
 
 ---
 ## Winter II 2021
