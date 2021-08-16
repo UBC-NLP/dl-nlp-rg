@@ -16,7 +16,7 @@ If you are interested in receiving the meeting information and attending, please
 |July 7| Adapter Modules: [[Parameter-Efficient Transfer Learning for NLP](http://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf)] [[Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks](https://arxiv.org/pdf/2106.04489.pdf)] |  Chiyu Zhang | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210707_Adapter_module.pdf)  |
 |July 14 | [DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://arxiv.org/abs/2105.03023) |  Alisa Liu | [Slides]() |
 |July 21| Re-visit Adapter Modules: [[Parameter-Efficient Transfer Learning for NLP](http://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf)] [[Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks](https://arxiv.org/pdf/2106.04489.pdf)] |  Chiyu Zhang | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210707_Adapter_module.pdf)  |
-|July 21| [[Hubert: How Much Can a Bad Teacher Benefit ASR Pre-Training?](https://ieeexplore.ieee.org/document/9414460)] |  Peter Sullivan | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210811_Hubert.pdf)  |
+|Aug 11| [[Hubert: How Much Can a Bad Teacher Benefit ASR Pre-Training?](https://ieeexplore.ieee.org/document/9414460)] |  Peter Sullivan | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210811_Hubert.pdf)  |
 
 
 
