@@ -1,6 +1,14 @@
 # Deep Learning & Natural Language Processing Reading Group (DL-NLP) | University of British Columbia (UBC)
 If you are interested in receiving the meeting information and attending, please subscribe to the mail: ubc-nlp@googlegroups.com
 
+## Winter I 2021
+
+### Time: Thursday 4:00pm - 5:30pm (Vancouver time)
+### Place: Zoom
+| Time | Topic/Paper | Presenter | Slides |
+| ----  | ------ | ------- | ------ |
+|Sep. 23 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | Chiyu Zhang | [Slides]() |
+
 ## Summer I & II 2021
 
 ### Time: Wenesday 4:15pm - 5:30pm (Vancouver time)
