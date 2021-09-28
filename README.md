@@ -4,7 +4,7 @@ If you are interested in receiving the meeting information and attending, please
 ## Winter I 2021
 
 ### Time: Thursday 4:00pm - 5:30pm (Vancouver time)
-### Place: Zoom
+### Place: Totem Fields Studios 121 & Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 |Sep. 23 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | Chiyu Zhang | [Slides](slides/20210923_SimCSE.pdf) |
