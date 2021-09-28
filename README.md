@@ -7,7 +7,7 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
-|Sep. 23 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | Chiyu Zhang | [Slides]() |
+|Sep. 23 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | Chiyu Zhang | [Slides](slides/20210923_SimCSE.pdf) |
 |Sep. 30 | [Machine Translation into Low-resource Language Varieties](https://arxiv.org/pdf/2106.06797.pdf) | Farhan Samir | [Slides]() |
 
 ## Summer I & II 2021
