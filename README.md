@@ -27,6 +27,8 @@ If you are interested in receiving the meeting information and attending, please
 |July 21| Re-visit Adapter Modules: [[Parameter-Efficient Transfer Learning for NLP](http://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf)] [[Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks](https://arxiv.org/pdf/2106.04489.pdf)] |  Chiyu Zhang | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210707_Adapter_module.pdf)  |
 |Aug 11| [[Hubert: How Much Can a Bad Teacher Benefit ASR Pre-Training?](https://ieeexplore.ieee.org/document/9414460)] |  Peter Sullivan | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210811_Hubert.pdf)  |
 |Aug 18| [[Charformer: Fast Character Transformers via Gradient-based Subword Tokenization](https://arxiv.org/pdf/2106.12672.pdf)] | Ganesh Jawahar | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210818_charformers.pdf)  |
+|Sep 1| Multi-task learning and Hyperformer | Chiyu Zhang | |
+|Sep 22| [[SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | Chiyu Zhang | |
 
 
 ---
