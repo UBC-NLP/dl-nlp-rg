@@ -11,7 +11,7 @@ If you are interested in receiving the meeting information and attending, please
 |Oct. 7 | [Machine Translation into Low-resource Language Varieties](https://arxiv.org/pdf/2106.06797.pdf) | Farhan Samir | [Slides]() |
 |Oct. 14 | [Micro-services and Docker Images] | Bashar Talafha | [Slides]() |
 |Oct. 21 | [Graph Attention Networks](https://journals.colorado.edu/index.php/computel/article/view/949) | Tawkat Islam Khondaker | [Slides]() |
-|Oct. 28 | [Machine Translation on Low-resource/Indigenous Languages](https://journals.colorado.edu/index.php/computel/article/view/949) | Garrett Nicolai | [Slides]() |
+|Oct. 28 | [Machine Translation on Low-resource/Indigenous Languages](https://journals.colorado.edu/index.php/computel/article/view/949) | Garrett Nicolai | -- |
 |Nov. 4 | [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP) | Ganesh Jawahar | [Slides]() |
 
 ## Summer I & II 2021
