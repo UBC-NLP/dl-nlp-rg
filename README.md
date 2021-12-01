@@ -15,6 +15,7 @@ If you are interested in receiving the meeting information and attending, please
 |Nov. 4 | [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP) | Ganesh Jawahar | [Slides]() |
 |Nov. 18 | [Textless NLP: Generating expressive speech from raw audio](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/) | Peter Sullivan | [Slides]() |
 |Nov. 15 | [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP) | Ganesh Jawahar | [Slides]() |
+|Dec. 2 | [Towards Trusted AI for Healthcare: from Theory to Practice] | Xiaoxiao Li | [Slides]() |
 
 
 ## Summer I & II 2021
