@@ -8,7 +8,16 @@ If you are interested in receiving the meeting information and attending, please
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 |Sep. 23 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | Chiyu Zhang | [Slides](slides/20210923_SimCSE.pdf) |
-|Sep. 30 | [Machine Translation into Low-resource Language Varieties](https://arxiv.org/pdf/2106.06797.pdf) | Farhan Samir | [Slides]() |
+|Oct. 7 | [Machine Translation into Low-resource Language Varieties](https://arxiv.org/pdf/2106.06797.pdf) | Farhan Samir | [Slides]() |
+|Oct. 14 | [Micro-services and Docker Images] | Bashar Talafha | [Slides]() |
+|Oct. 21 | [Graph Attention Networks](https://journals.colorado.edu/index.php/computel/article/view/949) | Tawkat Islam Khondaker | [Slides]() |
+|Oct. 28 | [Machine Translation on Low-resource/Indigenous Languages](https://journals.colorado.edu/index.php/computel/article/view/949) | Garrett Nicolai | -- |
+|Nov. 4 | [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP) | Ganesh Jawahar | [Slides]() |
+|Nov. 18 | [Textless NLP: Generating expressive speech from raw audio](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/) | Peter Sullivan | [Slides]() |
+|Nov. 15 | [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP) | Ganesh Jawahar | [Slides]() |
+|Dec. 2 | [Towards Trusted AI for Healthcare: from Theory to Practice] | Xiaoxiao Li | [Slides]() |
+|Dec. 9 | [Contrastive Learning in NLP] | Chiyu Zhang | [Slides]() |
+
 
 ## Summer I & II 2021
 
