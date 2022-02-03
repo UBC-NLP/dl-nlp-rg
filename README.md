@@ -17,6 +17,7 @@ If you are interested in receiving the meeting information and attending, please
 |Nov. 15 | [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP) | Ganesh Jawahar | [Slides](slides/20211115_emnlp_2021.pdf) |
 |Dec. 2 | [Towards Trusted AI for Healthcare: from Theory to Practice] | Xiaoxiao Li | [Slides]() |
 |Dec. 9 | [Contrastive Learning in NLP] | Chiyu Zhang, Ganesh Jawahar | [Slides1](slides/20211209_Contrastive_Learning.pdf), [Slides2](slides/20211209_contrastive_learning_ganesh.pdf) |
+|Jan. 24 | [Graph Representation Learning] | Ganesh Jawahar, Weirui Chen, Tawkat Islam Khondaker | [Slides1](slides/) |
 
 
 ## Summer I & II 2021
