@@ -18,9 +18,9 @@ If you are interested in receiving the meeting information and attending, please
 |Dec. 2 | [Towards Trusted AI for Healthcare: from Theory to Practice] | Xiaoxiao Li | [Slides]() |
 |Dec. 9 | [Contrastive Learning in NLP] | Chiyu Zhang, Ganesh Jawahar | [Slides1](slides/20211209_Contrastive_Learning.pdf), [Slides2](slides/20211209_contrastive_learning_ganesh.pdf) |
 |Jan. 24 | Graph Representation Learning | Ganesh Jawahar, Weirui Chen, Tawkat Islam Khondaker | [Slides](slides/20220124_Graph_Representation_Learning.pdf) |
-|Jan. 26 | Speech Features: Fundamental representations of spoken audio | Peter Sullivan, Bashar Talafha, Gagan Bhatia | [Slides](slides/) |
+|Jan. 26 | Speech Features: Fundamental representations of spoken audio | Peter Sullivan, Bashar Talafha, Gagan Bhatia | [Slides](slides/20220126_Speech_Features.pdf) |
 |Jan. 31 | Graph Representation Learning | Ganesh Jawahar, Weirui Chen, Tawkat Islam Khondaker | [Slides](slides/20220124_Graph_Representation_Learning.pdf) |
-|Feb. 2 | Speech Features: Fundamental representations of spoken audio | Peter Sullivan, Bashar Talafha, Gagan Bhatia | [Slides](slides/) |
+|Feb. 2 | Speech Features: Fundamental representations of spoken audio | Peter Sullivan, Bashar Talafha, Gagan Bhatia | [Slides](slides/20220126_Speech_Features.pdf) |
 
 
 ## Summer I & II 2021
