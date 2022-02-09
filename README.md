@@ -7,6 +7,8 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: Totem Fields Studios 121 & Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
+|Sep 22| [[SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf)] | Chiyu Zhang | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210922_SimCSE.pdf) |
+|Oct 7 | [[Machine Translation into Low-resource Language Varieties](https://arxiv.org/pdf/2106.06797.pdf)] | Farhan Samir | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20211007_MachineTranslation.pdf) |
 |Oct. 14 | [Micro-services and Docker Images] | Bashar Talafha | [Slides]() |
 |Oct. 21 | [Graph Attention Networks](https://journals.colorado.edu/index.php/computel/article/view/949) | Tawkat Islam Khondaker | [Slides]() |
 |Oct. 28 | [Machine Translation on Low-resource/Indigenous Languages](https://journals.colorado.edu/index.php/computel/article/view/949) | Garrett Nicolai | -- |
@@ -38,8 +40,7 @@ If you are interested in receiving the meeting information and attending, please
 |July 21| Re-visit Adapter Modules: [[Parameter-Efficient Transfer Learning for NLP](http://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf)] [[Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks](https://arxiv.org/pdf/2106.04489.pdf)] |  Chiyu Zhang | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210707_Adapter_module.pdf)  |
 |Aug 11| [[Hubert: How Much Can a Bad Teacher Benefit ASR Pre-Training?](https://ieeexplore.ieee.org/document/9414460)] |  Peter Sullivan | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210811_Hubert.pdf)  |
 |Aug 18| [[Charformer: Fast Character Transformers via Gradient-based Subword Tokenization](https://arxiv.org/pdf/2106.12672.pdf)] | Ganesh Jawahar | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210818_charformers.pdf)  |
-|Sep 22| [[SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf)] | Chiyu Zhang | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20210922_SimCSE.pdf) |
-|Oct 7 | [[Machine Translation into Low-resource Language Varieties](https://arxiv.org/pdf/2106.06797.pdf)] | Farhan Samir | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20211007_MachineTranslation.pdf) |
+
 
 ---
 ## Winter II 2021
