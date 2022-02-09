@@ -7,8 +7,6 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: Totem Fields Studios 121 & Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
-|Sep. 23 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf) | Chiyu Zhang | [Slides](slides/20210923_SimCSE.pdf) |
-|Oct. 7 | [Machine Translation into Low-resource Language Varieties](https://arxiv.org/pdf/2106.06797.pdf) | Farhan Samir | [Slides]() |
 |Oct. 14 | [Micro-services and Docker Images] | Bashar Talafha | [Slides]() |
 |Oct. 21 | [Graph Attention Networks](https://journals.colorado.edu/index.php/computel/article/view/949) | Tawkat Islam Khondaker | [Slides]() |
 |Oct. 28 | [Machine Translation on Low-resource/Indigenous Languages](https://journals.colorado.edu/index.php/computel/article/view/949) | Garrett Nicolai | -- |
