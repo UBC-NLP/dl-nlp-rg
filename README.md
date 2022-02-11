@@ -13,7 +13,7 @@ If you are interested in receiving the meeting information and attending, please
 |Oct. 21 | [Graph Attention Networks](https://journals.colorado.edu/index.php/computel/article/view/949) | Tawkat Islam Khondaker | [Slides]() |
 |Oct. 28 | [Machine Translation on Low-resource/Indigenous Languages](https://journals.colorado.edu/index.php/computel/article/view/949) | Garrett Nicolai | -- |
 |Nov. 4 | [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP) | Ganesh Jawahar | [Slides](slides/20211104_gnn_emnlp_tutorial.pdf) |
-|Nov. 18 | [Textless NLP: Generating expressive speech from raw audio](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/) | Peter Sullivan | [Slides]() |
+|Nov. 18 | [Textless NLP: Generating expressive speech from raw audio](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/) | Peter Sullivan | [Slides](slides/20211118_textless_NLP.pdf) |
 |Nov. 15 | [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP) | Ganesh Jawahar | [Slides](slides/20211115_emnlp_2021.pdf) |
 |Dec. 2 | [Towards Trusted AI for Healthcare: from Theory to Practice] | Xiaoxiao Li | [Slides]() |
 |Dec. 9 | [Contrastive Learning in NLP] | Chiyu Zhang, Ganesh Jawahar | [Slides1](slides/20211209_Contrastive_Learning.pdf), [Slides2](slides/20211209_contrastive_learning_ganesh.pdf) |
