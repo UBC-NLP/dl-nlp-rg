@@ -1,8 +1,19 @@
 # Deep Learning & Natural Language Processing Reading Group (DL-NLP) | University of British Columbia (UBC)
 If you are interested in receiving the meeting information and attending, please subscribe to the mail: ubc-nlp@googlegroups.com
 
-## Winter I & II 2021
+## Winter II 2022
+### Time: Monday & Wednesday 1:00pm - 2:30pm (Vancouver time)
+### Place: Totem Fields Studios 121 & Zoom
+| Time | Topic/Paper | Presenter | Slides |
+| ----  | ------ | ------- | ------ |
+|Feb. 14 | [Contrastive Learning in NLP] | Chiyu Zhang | [Slides1](slides/20211209_Contrastive_Learning.pdf), [Slides2](slides/20211209_contrastive_learning_ganesh.pdf) |
+|Feb. 2 | Speech Features: Fundamental representations of spoken audio | Peter Sullivan, Bashar Talafha, Gagan Bhatia | [Slides](slides/20220126_Speech_Features.pdf) |
+|Jan. 26 | Speech Features: Fundamental representations of spoken audio | Peter Sullivan, Bashar Talafha, Gagan Bhatia | [Slides](slides/20220126_Speech_Features.pdf) |
+|Jan. 31 | Graph Representation Learning | Ganesh Jawahar, Weirui Chen, Tawkat Islam Khondaker | [Slides](slides/20220124_Graph_Representation_Learning.pdf) |
+|Jan. 24 | Graph Representation Learning | Ganesh Jawahar, Weirui Chen, Tawkat Islam Khondaker | [Slides](slides/20220124_Graph_Representation_Learning.pdf) |
 
+
+## Winter I 2021
 ### Time: Thursday 4:00pm - 5:30pm (Vancouver time)
 ### Place: Totem Fields Studios 121 & Zoom
 | Time | Topic/Paper | Presenter | Slides |
@@ -17,10 +28,7 @@ If you are interested in receiving the meeting information and attending, please
 |Nov. 15 | [Graph Neural Networks for Natural Language Processing](https://github.com/svjan5/GNNs-for-NLP) | Ganesh Jawahar | [Slides](slides/20211115_emnlp_2021.pdf) |
 |Dec. 2 | [Towards Trusted AI for Healthcare: from Theory to Practice] | Xiaoxiao Li | [Slides]() |
 |Dec. 9 | [Contrastive Learning in NLP] | Chiyu Zhang, Ganesh Jawahar | [Slides1](slides/20211209_Contrastive_Learning.pdf), [Slides2](slides/20211209_contrastive_learning_ganesh.pdf) |
-|Jan. 24 | Graph Representation Learning | Ganesh Jawahar, Weirui Chen, Tawkat Islam Khondaker | [Slides](slides/20220124_Graph_Representation_Learning.pdf) |
-|Jan. 26 | Speech Features: Fundamental representations of spoken audio | Peter Sullivan, Bashar Talafha, Gagan Bhatia | [Slides](slides/20220126_Speech_Features.pdf) |
-|Jan. 31 | Graph Representation Learning | Ganesh Jawahar, Weirui Chen, Tawkat Islam Khondaker | [Slides](slides/20220124_Graph_Representation_Learning.pdf) |
-|Feb. 2 | Speech Features: Fundamental representations of spoken audio | Peter Sullivan, Bashar Talafha, Gagan Bhatia | [Slides](slides/20220126_Speech_Features.pdf) |
+
 
 
 ## Summer I & II 2021
