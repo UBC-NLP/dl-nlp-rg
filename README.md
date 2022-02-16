@@ -6,11 +6,11 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: Totem Fields Studios 121 & Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
-|Feb. 14 | [Contrastive Learning in NLP] | Chiyu Zhang | [Slides1](slides/20211209_Contrastive_Learning.pdf), [Slides2](slides/20211209_contrastive_learning_ganesh.pdf) |
+|Feb. 14 | Contrastive Learning in NLP | Chiyu Zhang | [Slides1](slides/20211209_Contrastive_Learning.pdf), [Slides2](slides/20211209_contrastive_learning_ganesh.pdf) |
 |Feb. 2 | Speech Features: Fundamental representations of spoken audio | Peter Sullivan, Bashar Talafha, Gagan Bhatia | [Slides](slides/20220126_Speech_Features.pdf) |
 |Jan. 26 | Speech Features: Fundamental representations of spoken audio | Peter Sullivan, Bashar Talafha, Gagan Bhatia | [Slides](slides/20220126_Speech_Features.pdf) |
-|Jan. 31 | Graph Representation Learning | Ganesh Jawahar, Weirui Chen, Tawkat Islam Khondaker | [Slides](slides/20220124_Graph_Representation_Learning.pdf) |
-|Jan. 24 | Graph Representation Learning | Ganesh Jawahar, Weirui Chen, Tawkat Islam Khondaker | [Slides](slides/20220124_Graph_Representation_Learning.pdf) |
+|Jan. 31 | [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf) | Ganesh Jawahar, Weirui Chen, Tawkat Islam Khondaker | [Slides](slides/20220124_Graph_Representation_Learning.pdf) |
+|Jan. 24 | [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf) | Ganesh Jawahar, Weirui Chen, Tawkat Islam Khondaker | [Slides](slides/20220124_Graph_Representation_Learning.pdf) |
 
 
 ## Winter I 2021
