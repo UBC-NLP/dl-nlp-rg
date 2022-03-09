@@ -8,7 +8,7 @@ If you are interested in receiving the meeting information and attending, please
 | ----  | ------ | ------- | ------ |
 |Mar. 9 | [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://arxiv.org/abs/2202.03555) | Gagan Bhatia | [Slides]() |
 |Mar. 7 | Diverse decoding methods for NLP (cont'd) | Farhan Samir, Ganesh Jawahar | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220228_Diverse_decoding_methods_for_NLP.pdf) |
-|Mar. 2 | Gumbel-Softmax and Conformer | Peter Sullivan, Bashar Talafha | [Slides]() |
+|Mar. 2 | Gumbel-Softmax and Conformer | Peter Sullivan, Bashar Talafha | [Slides1](https://github.com/UBC-NLP/speech-processing/blob/main/Presentations/w2v-BERT/Wav2Vec2GumbelVectorQuantizer.ipynb), [Slides2](https://github.com/UBC-NLP/speech-processing/blob/main/Presentations/w2v-BERT/Conformer(1).pdf) |
 |Feb. 28 | Diverse decoding methods for NLP | Farhan Samir, Ganesh Jawahar | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220228_Diverse_decoding_methods_for_NLP.pdf) |
 |Feb. 14 | Contrastive Learning in NLP | Chiyu Zhang | [Slides1](slides/20211209_Contrastive_Learning.pdf), [Slides2](slides/20211209_contrastive_learning_ganesh.pdf) |
 |Feb. 2 | Speech Features: Fundamental representations of spoken audio | Peter Sullivan, Bashar Talafha, Gagan Bhatia | [Slides](slides/20220126_Speech_Features.pdf) |
