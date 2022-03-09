@@ -6,7 +6,7 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: Totem Fields Studios 121 & Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
-|Mar. 9 | data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language) | Gagan Bhatia | [Slides]() |
+|Mar. 9 | [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://arxiv.org/abs/2202.03555) | Gagan Bhatia | [Slides]() |
 |Mar. 7 | Diverse decoding methods for NLP (cont'd) | Farhan Samir, Ganesh Jawahar | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220228_Diverse_decoding_methods_for_NLP.pdf) |
 |Feb. 28 | Diverse decoding methods for NLP | Farhan Samir, Ganesh Jawahar | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220228_Diverse_decoding_methods_for_NLP.pdf) |
 |Feb. 14 | Contrastive Learning in NLP | Chiyu Zhang | [Slides1](slides/20211209_Contrastive_Learning.pdf), [Slides2](slides/20211209_contrastive_learning_ganesh.pdf) |
