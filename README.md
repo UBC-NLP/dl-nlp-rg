@@ -7,6 +7,7 @@ If you are interested in receiving the meeting information and attending, please
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 | Jun 8 | Introduction to Language Model Prompting | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220608_Language%20model%20prompting.pdf)|
+| May 04 | [AutoBERT-Zero: Evolving BERT Backbone from Scratch](https://arxiv.org/abs/2107.07445) | Ganesh Jawahar | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220504_autobertzero_lite.pdf) |
 | Apr 25 | [Diacritization](https://arxiv.org/pdf/2109.14150.pdf) | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220425_Diacritization.pdf) |
 | Apr 11 | [Gradient Matching for Domain Generalization](https://arxiv.org/abs/2104.09937) | Tawkat Islam Khondaker | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220411_Gradient_matching.pdf) |
 | Mar 14 | [GreaseLM: Graph REASoning Enhanced Language Models for Question Answering](https://arxiv.org/abs/2201.08860) | Tawkat Islam Khondaker | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220314_GreaseLM.pdf) | 
