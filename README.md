@@ -7,6 +7,7 @@ If you are interested in receiving the meeting information and attending, please
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 | Jun 8 | Introduction to Language Model Prompting | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220608_Language%20model%20prompting.pdf)|
+| Mar 14 | [GreaseLM: Graph REASoning Enhanced Language Models for Question Answering](https://arxiv.org/abs/2201.08860) | Tawkat Islam Khondaker | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220314_GreaseLM.pdf) | 
 |Mar. 9 | [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://arxiv.org/abs/2202.03555) | Gagan Bhatia | [Slides]() |
 |Mar. 7 | Diverse decoding methods for NLP (cont'd) | Farhan Samir, Ganesh Jawahar | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220228_Diverse_decoding_methods_for_NLP.pdf) |
 |Mar. 2 | [W2V-BERT](https://arxiv.org/pdf/2108.06209.pdf) and [Conformer](https://arxiv.org/pdf/2005.08100.pdf) (Cont'd)| Peter Sullivan, Bashar Talafha | [Slides1](https://github.com/UBC-NLP/speech-processing/blob/main/Presentations/w2v-BERT/Wav2Vec2GumbelVectorQuantizer.ipynb), [Slides2](https://github.com/UBC-NLP/speech-processing/blob/main/Presentations/w2v-BERT/Conformer(1).pdf) |
