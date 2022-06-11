@@ -7,12 +7,12 @@ If you are interested in receiving the meeting information and attending, please
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 | Jun 8 | [Introduction to Language Model Prompting](https://aclanthology.org/2022.acl-long.197/) | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220608_Language%20model%20prompting.pdf)|
-| Jun 3 | Discussion of ACL-2022 papers | | |
-| Jun 1 | Discussion of ACL-2022 papers | | |
-| May 30 | Internal meeting about research progress | | |
-| May 25 | No meeting due to ACL | | |
-| May 25 | No meeting due to ACL | | |
-| May 18 | Internal meeting about research progress | | |
+| Jun 3 | Discussion of ACL-2022 papers | Chiyu Zhang, Tawkat Islam Khondaker | |
+| Jun 1 | Discussion of ACL-2022 papers | Ganesh Jawahar, Ife Adebara, Peter Sullivan  | |
+| May 30 | Internal meeting about current research | Peter Sullivan | NA |
+| May 25 | No meeting due to ACL | NA | NA |
+| May 25 | No meeting due to ACL | NA | NA |
+| May 18 | Internal meeting about research progress | Tawkat Islam Khondaker, Ganesh Jawahar | |
 | May 16 | [Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://arxiv.org/pdf/2202.13469.pdf) | Tawkat Islam Khondaker | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220516_CLAPS.pdf)
 | May 11 | Internal meeting about research progress | | |
 | May 09 | [UCTopic: Unsupervised Contrastive Learning for Phrase Representations and Topic Mining](https://arxiv.org/pdf/2202.13469.pdf) | Tawkat Islam Khondaker| [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220509_UCTopic.pdf) |
