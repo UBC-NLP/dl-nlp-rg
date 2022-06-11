@@ -11,7 +11,10 @@ If you are interested in receiving the meeting information and attending, please
 | Jun 1 | Discussion of ACL-2022 papers | | |
 | May 30 | Internal meeting about research progress | | |
 | May 25 | No meeting due to ACL | | |
+| May 25 | No meeting due to ACL | | |
+| May 18 | Internal meeting about research progress | | |
 | May 16 | [Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://arxiv.org/pdf/2202.13469.pdf) | Tawkat Islam Khondaker | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220516_CLAPS.pdf)
+| May 11 | Internal meeting about research progress | | |
 | May 09 | [UCTopic: Unsupervised Contrastive Learning for Phrase Representations and Topic Mining](https://arxiv.org/pdf/2202.13469.pdf) | Tawkat Islam Khondaker| [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220509_UCTopic.pdf) |
 | May 04 | [AutoBERT-Zero: Evolving BERT Backbone from Scratch](https://arxiv.org/abs/2107.07445) | Ganesh Jawahar | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220504_autobertzero_lite.pdf) |
 | Apr 25 | [Diacritization](https://arxiv.org/pdf/2109.14150.pdf) | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220425_Diacritization.pdf) |
