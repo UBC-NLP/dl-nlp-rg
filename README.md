@@ -11,7 +11,6 @@ If you are interested in receiving the meeting information and attending, please
 | Jun 1 | Discussion of ACL-2022 papers | Ganesh Jawahar, Ife Adebara, Peter Sullivan  | NA |
 | May 30 | Internal meeting about current research | Peter Sullivan | NA |
 | May 25 | No meeting due to ACL | NA | NA |
-| May 25 | No meeting due to ACL | NA | NA |
 | May 18 | Internal meeting about research progress | Tawkat Islam Khondaker, Ganesh Jawahar | NA |
 | May 16 | [Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://arxiv.org/pdf/2202.13469.pdf) | Tawkat Islam Khondaker | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220516_CLAPS.pdf)
 | May 11 | Internal meeting about research progress | | |
