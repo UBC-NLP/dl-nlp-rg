@@ -6,6 +6,17 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: Totem Fields Studios 121 & Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
+| Jun 8 | [Introduction to Language Model Prompting](https://aclanthology.org/2022.acl-long.197/) | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220608_Language%20model%20prompting.pdf)|
+| Jun 3 | Discussion of ACL-2022 papers | Chiyu Zhang, Tawkat Islam Khondaker | NA |
+| Jun 1 | Discussion of ACL-2022 papers | Ganesh Jawahar, Ife Adebara, Peter Sullivan  | NA |
+| May 25 | Research Discussion | All members | NA |
+| May 16 | [Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://arxiv.org/pdf/2202.13469.pdf) | Tawkat Islam Khondaker | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220516_CLAPS.pdf)
+| May 11 | Research Discussion | All members | NA |
+| May 09 | [UCTopic: Unsupervised Contrastive Learning for Phrase Representations and Topic Mining](https://arxiv.org/pdf/2202.13469.pdf) | Tawkat Islam Khondaker| [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220509_UCTopic.pdf) |
+| May 04 | [AutoBERT-Zero: Evolving BERT Backbone from Scratch](https://arxiv.org/abs/2107.07445) | Ganesh Jawahar | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220504_autobertzero_lite.pdf) |
+| Apr 25 | [Diacritization](https://arxiv.org/pdf/2109.14150.pdf) | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220425_Diacritization.pdf) |
+| Apr 11 | [Gradient Matching for Domain Generalization](https://arxiv.org/abs/2104.09937) | Tawkat Islam Khondaker | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220411_Gradient_matching.pdf) |
+| Mar 14 | [GreaseLM: Graph REASoning Enhanced Language Models for Question Answering](https://arxiv.org/abs/2201.08860) | Tawkat Islam Khondaker | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220314_GreaseLM.pdf) | 
 |Mar. 9 | [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://arxiv.org/abs/2202.03555) | Gagan Bhatia | [Slides]() |
 |Mar. 7 | Diverse decoding methods for NLP (cont'd) | Farhan Samir, Ganesh Jawahar | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220228_Diverse_decoding_methods_for_NLP.pdf) |
 |Mar. 2 | [W2V-BERT](https://arxiv.org/pdf/2108.06209.pdf) and [Conformer](https://arxiv.org/pdf/2005.08100.pdf) (Cont'd)| Peter Sullivan, Bashar Talafha | [Slides1](https://github.com/UBC-NLP/speech-processing/blob/main/Presentations/w2v-BERT/Wav2Vec2GumbelVectorQuantizer.ipynb), [Slides2](https://github.com/UBC-NLP/speech-processing/blob/main/Presentations/w2v-BERT/Conformer(1).pdf) |
