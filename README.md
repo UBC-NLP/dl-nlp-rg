@@ -6,6 +6,7 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: Totem Fields Studios 121 & Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
+| Jun 27 | Research Discussion | All members | NA |
 | Jun 22 | Preparation for Papers submission | NA | NA |
 | Jun 20 | Preparation for Papers submission | NA | NA |
 | Jun 15 | Engineering Tutorial for Contrastive Learning | Chiyu Zhang |  |
