@@ -6,6 +6,9 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: Totem Fields Studios 121 & Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
+| Jun 22 | Preparation for Papers submission | NA | NA |
+| Jun 20 | Preparation for Papers submission | NA | NA |
+| Jun 15 | Engineering Tutorial for Contrastive Learning | Chiyu Zhang |  |
 | Jun 13 | [Language Model Prompting: Recent Research Work](https://aclanthology.org/2022.acl-long.197/) | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220613_Language_model_prompting.pdf)|
 | Jun 8 | [Introduction to Language Model Prompting](https://aclanthology.org/2022.acl-long.197/) | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220608_Language%20model%20prompting.pdf)|
 | Jun 3 | Discussion of ACL-2022 papers | Chiyu Zhang, Tawkat Islam Khondaker | NA |
