@@ -8,7 +8,7 @@ If you are interested in receiving the meeting information and attending, please
 | ----  | ------ | ------- | ------ |
 | Jun 29 | [SpeechT5](https://aclanthology.org/2022.acl-long.393.pdf) | Bashar Talafha | pending |
 | Jun 27 | Research Discussion | All members | NA |
-| Jun 15 | [Engineering Tutorial for Contrastive Learning](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/tutorial/20220613_Contrastive_Learning.ipynb) | Chiyu Zhang |  |
+| Jun 15 | Engineering Tutorial for Contrastive Learning| Chiyu Zhang | [Notebook](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/tutorial/20220613_Contrastive_Learning.ipynb)  |
 | Jun 13 | [Language Model Prompting: Recent Research Work](https://aclanthology.org/2022.acl-long.197/) | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220613_Language_model_prompting.pdf)|
 | Jun 8 | [Introduction to Language Model Prompting](https://aclanthology.org/2022.acl-long.197/) | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220608_Language%20model%20prompting.pdf)|
 | Jun 3 | Discussion of ACL-2022 papers | Chiyu Zhang, Tawkat Islam Khondaker | NA |
