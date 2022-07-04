@@ -1,16 +1,34 @@
 # Deep Learning & Natural Language Processing Reading Group (DL-NLP) | University of British Columbia (UBC)
 If you are interested in receiving the meeting information and attending, please subscribe to the mail: ubc-nlp@googlegroups.com
 
-## Winter II 2022
-### Time: Monday & Wednesday 1:00pm - 2:30pm (Vancouver time)
-### Place: Totem Fields Studios 121 & Zoom
+## Summer 2022
+### Time: Monday & Wednesday 10:30am - 12:00pm (Vancouver time)
+### Place: ICCS 104 & Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 | Jun 29 | [SpeechT5](https://aclanthology.org/2022.acl-long.393.pdf) | Bashar Talafha | pending |
 | Jun 27 | Research Discussion | All members | NA |
 | Jun 22 | Preparation for Papers submission | NA | NA |
-| Jun 20 | Preparation for Papers submission | NA | NA |
-| Jun 15 | Engineering Tutorial for Contrastive Learning | Chiyu Zhang |  |
+| Jun 15 | [Engineering Tutorial for Contrastive Learning](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/tutorial/20220613_Contrastive_Learning.ipynb) | Chiyu Zhang |  |
+| Jun 13 | [Language Model Prompting: Recent Research Work](https://aclanthology.org/2022.acl-long.197/) | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220613_Language_model_prompting.pdf)|
+| Jun 8 | [Introduction to Language Model Prompting](https://aclanthology.org/2022.acl-long.197/) | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220608_Language%20model%20prompting.pdf)|
+| Jun 3 | Discussion of ACL-2022 papers | Chiyu Zhang, Tawkat Islam Khondaker | NA |
+| Jun 1 | Discussion of ACL-2022 papers | Ganesh Jawahar, Ife Adebara, Peter Sullivan  | NA |
+| May 25 | Research Discussion | All members | NA |
+| May 16 | [Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://arxiv.org/pdf/2202.13469.pdf) | Tawkat Islam Khondaker | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220516_CLAPS.pdf)
+| May 11 | Research Discussion | All members | NA |
+| May 09 | [UCTopic: Unsupervised Contrastive Learning for Phrase Representations and Topic Mining](https://arxiv.org/pdf/2202.13469.pdf) | Tawkat Islam Khondaker| [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220509_UCTopic.pdf) |
+| May 04 | [AutoBERT-Zero: Evolving BERT Backbone from Scratch](https://arxiv.org/abs/2107.07445) | Ganesh Jawahar | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220504_autobertzero_lite.pdf) |
+
+## Winter II 2022
+### Time: Monday & Wednesday 1:00pm - 2:30pm (Vancouver time)
+### Place: ICCS 104 & Zoom
+| Time | Topic/Paper | Presenter | Slides |
+| ----  | ------ | ------- | ------ |
+| Jun 29 | [SpeechT5](https://aclanthology.org/2022.acl-long.393.pdf) | Bashar Talafha | pending |
+| Jun 27 | Research Discussion | All members | NA |
+| Jun 22 | Preparation for Papers submission | NA | NA |
+| Jun 15 | [Engineering Tutorial for Contrastive Learning](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/tutorial/20220613_Contrastive_Learning.ipynb) | Chiyu Zhang |  |
 | Jun 13 | [Language Model Prompting: Recent Research Work](https://aclanthology.org/2022.acl-long.197/) | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220613_Language_model_prompting.pdf)|
 | Jun 8 | [Introduction to Language Model Prompting](https://aclanthology.org/2022.acl-long.197/) | Wei-Rui Chen | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220608_Language%20model%20prompting.pdf)|
 | Jun 3 | Discussion of ACL-2022 papers | Chiyu Zhang, Tawkat Islam Khondaker | NA |
