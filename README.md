@@ -7,6 +7,7 @@ If you are interested in receiving the meeting information and attending, please
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 | Jul 6 | A Contrastive Framework for Neural Text Generation | Tawkat Islam Khondaker | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220706_A_Contrastive_Framework_for_Neural_Text_Generation.pdf) |
+| Jul 4 | [Hands-on Tutorial for SpeechT5]((https://aclanthology.org/2022.acl-long.393.pdf)) | Gagan Bhatia | [Notebook]() |
 | Jun 29 | [SpeechT5](https://aclanthology.org/2022.acl-long.393.pdf) | Bashar Talafha | pending |
 | Jun 27 | Research Discussion | All members | NA |
 | Jun 15 | Engineering Tutorial for Contrastive Learning| Chiyu Zhang | [Notebook](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/tutorial/20220613_Contrastive_Learning.ipynb)  |
