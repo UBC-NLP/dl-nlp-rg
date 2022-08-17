@@ -6,6 +6,7 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: ICCS 104 & Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
+| Aug 3 | Research Discussion | All members | NA |
 | Jul 6 | A Contrastive Framework for Neural Text Generation | Tawkat Islam Khondaker | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220706_A_Contrastive_Framework_for_Neural_Text_Generation.pdf) |
 | Jul 4 | [Hands-on Tutorial for SpeechT5]((https://aclanthology.org/2022.acl-long.393.pdf)) | Gagan Bhatia | [Notebook]() |
 | Jun 29 | [SpeechT5](https://aclanthology.org/2022.acl-long.393.pdf) | Bashar Talafha | pending |
