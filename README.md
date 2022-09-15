@@ -6,6 +6,7 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: ICCS 104 & Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
+| Aug 3 | [SEQZERO: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models](https://aclanthology.org/2022.findings-naacl.5/) [The Power of Scale for Parameter-Efficient Prompt Tuning](https://aclanthology.org/2021.emnlp-main.243/) | Wei-Rui Chen | https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220915_Language_model_prompting3.pdf | 
 | Aug 3 | Research Discussion | All members | NA |
 | Jul 18 | Research Discussion | All members | NA |
 | Jul 6 | A Contrastive Framework for Neural Text Generation | Tawkat Islam Khondaker | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220706_A_Contrastive_Framework_for_Neural_Text_Generation.pdf) |
