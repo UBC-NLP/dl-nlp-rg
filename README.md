@@ -6,7 +6,8 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: ICCS 104 & Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
-| Oct 13 | [Robust Speech Recognition via Large-Scale Weak Supervision] (https://cdn.openai.com/papers/whisper.pdf) | Peter Sullivan  | [slides]() | 
+| Oct 13 | [Robust Speech Recognition via Large-Scale Weak Supervision] (https://cdn.openai.com/papers/whisper.pdf) | Peter Sullivan  | [slides]() |
+| Oct 6 | [Cross-lingual Retrieval for Iterative Self-Supervised Training] (https://arxiv.org/abs/2006.09526) Bilingual Lexicon Induction via Unsupervised Bitext Construction and Word Alignment (https://arxiv.org/abs/2101.00148)| Abdellah EL Mekki   | [slides]() |
 | Sep 15 | [SEQZERO: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models](https://aclanthology.org/2022.findings-naacl.5/) [The Power of Scale for Parameter-Efficient Prompt Tuning](https://aclanthology.org/2021.emnlp-main.243/) | Wei-Rui Chen | [slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220915_Language_model_prompting3.pdf) | 
 | Aug 3 | Research Discussion | All members | NA |
 | Jul 18 | Research Discussion | All members | NA |
