@@ -6,7 +6,7 @@ If you are interested in receiving the meeting information and attending, please
 ### Place: ICCS 104 & Zoom
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
-| Oct 13 | [Robust Speech Recognition via Large-Scale Weak Supervision](https://cdn.openai.com/papers/whisper.pdf) | Peter Sullivan  | [slides]() |
+| Oct 13 | [Robust Speech Recognition via Large-Scale Weak Supervision](https://cdn.openai.com/papers/whisper.pdf) | Peter Sullivan  | [slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20221013_Whisper.pdf) |
 | Oct 6 | [Cross-lingual Retrieval for Iterative Self-Supervised Training](https://arxiv.org/abs/2006.09526) [Bilingual Lexicon Induction via Unsupervised Bitext Construction and Word Alignment](https://arxiv.org/abs/2101.00148)| Abdellah EL Mekki   | [slides]() |
 | Sep 29 | Research Discussion | All members | NA |
 | Sep 22 | Research Discussion | All members | NA |
