@@ -1,9 +1,10 @@
 # Deep Learning & Natural Language Processing Reading Group (DL-NLP) | University of British Columbia (UBC)
 If you are interested in receiving the meeting information and attending, please subscribe to the mail: ubc-nlp@googlegroups.com
 
-## Summer 2022
-### Time: Monday & Wednesday 10:30am - 12:00pm (Vancouver time)
+## Winter 2022
+### Time: Thursday 10:00 - 11:30 (Vancouver time)
 ### Place: ICCS 104 & Zoom
+
 | Time | Topic/Paper | Presenter | Slides |
 | ----  | ------ | ------- | ------ |
 | Oct 13 | [Robust Speech Recognition via Large-Scale Weak Supervision](https://cdn.openai.com/papers/whisper.pdf) | Peter Sullivan  | [slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20221013_Whisper.pdf) |
@@ -11,6 +12,12 @@ If you are interested in receiving the meeting information and attending, please
 | Sep 29 | Research Discussion | All members | NA |
 | Sep 22 | Research Discussion | All members | NA |
 | Sep 15 | [SEQZERO: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models](https://aclanthology.org/2022.findings-naacl.5/) [The Power of Scale for Parameter-Efficient Prompt Tuning](https://aclanthology.org/2021.emnlp-main.243/) | Wei-Rui Chen | [slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220915_Language_model_prompting3.pdf) | 
+
+## Summer 2022
+### Time: Monday & Wednesday 10:30am - 12:00pm (Vancouver time)
+### Place: ICCS 104 & Zoom
+| Time | Topic/Paper | Presenter | Slides |
+| ----  | ------ | ------- | ------ | 
 | Aug 3 | Research Discussion | All members | NA |
 | Jul 18 | Research Discussion | All members | NA |
 | Jul 6 | A Contrastive Framework for Neural Text Generation | Tawkat Islam Khondaker | [Slides](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20220706_A_Contrastive_Framework_for_Neural_Text_Generation.pdf) |
