@@ -7,4 +7,5 @@
 |Aug. 27, 2021 | Multi-task Learning | Chiyu Zhang | [Notebook](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/tutorial/20210827_Multitask_RoBERTa.ipynb)  | [Datasets](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/tutorial/dataset/multitask)|
 |Oct. 27, 2022 | Neural Architecture Search | Ganesh Jawahar | [Notebook](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/tutorial/20221027_neural_architecture_search_for_mt.ipynb)  | |
 |Oct. 31, 2022 | Distillation | Ganesh Jawahar | [Notebook](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/tutorial/20221031_distillation_for_bert.ipynb)  | |
+|Nov. 1, 2022 | Supervised Contrastive Learning | Chiyu Zhang & Md Tawkat Islam Khondaker | [Directory](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/tutorial/20221101_Contrastive_Learning_Tutorial/)  | |
 
